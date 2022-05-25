@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fo Decoder</title>
+
+    <script src="/FoDecoder.js" defer></script>
+</head>
+
+<body>
+
+
+    <h1>Encode/Decode Faroese letters</h1>
+    <textarea style="overflow:auto;resize:none" name="" id="TextToProcess" cols="50" rows="20" onkeyup="ProcessText()"
+        onkeydown="ProcessText()"></textarea>
+    <textarea style="overflow:auto;resize:none" name="" id="ProcessedText" cols="50" rows="20"></textarea>
+    <button id="DecodeButton" onclick="ChooseProcess(`Decode`)">Decode</button><button id="EncodeButton"
+        onclick="ChooseProcess(`Encode`)">Encode</button>
+</body>
+
+</html>
