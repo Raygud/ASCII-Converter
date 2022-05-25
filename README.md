@@ -8,7 +8,7 @@ if (ToDecipher.includes("+")) {
 ```
 If the string is indeed spaced by + replace + by whitespace
 
-## Line 85 - Check if string containts "%"(Start of ASCII code)
+# Decoder
 ```
 for (let i = 0; i < ToDecipher.length; i++) {
         if (ToDecipher[i] == "%") {
@@ -27,4 +27,5 @@ for (let i = 0; i < ToDecipher.length; i++) {
         }
 ```
 Increment trough string and check if character at index is equal to "%" if this statement is true then look 6 characters ahead including "%".(Length of ASCII code is 6), check if this combinations of characters is equal to an ASCII code(we do this by looping trough our array of objects). after we have confirmed that our code does infact exsist we can find its objects index in the array using .map, after finding the index we can request the relevant Character attached to that code.
-we can now construct our new string we do this by calling the split function this lets us replace any section that matches the value we but into our split function. so we can say if the string contains 123 i.e. "Hello 123 im a string 123" we can call .split("123").join("New Value") = Hello New Value im a string New Value"
+we can now construct our new string we do this by calling the split function this lets us replace any section that matches the value we but into our split function. so we can say if the string contains 123 i.e. "Hello 123 im a string 123" we can call .split("123") and then we call join to replace the value .join("New Value") = Hello New Value im a string New Value".
+
