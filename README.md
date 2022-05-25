@@ -53,4 +53,4 @@ let indexInASCII = ASCII.map(object => object.Code).indexOf(ToDecipher.substr(i,
 ```
  and now we are simply swapping out object.Code with object.Char and Character code(ToDecipher.substr(i, 6)) with ToDecipher[i](letter from string) = 
 ```javascript
-let indexInASCII = ASCII.map(object => object.Char).indexOf(ToDecipher[i]);```
+let indexInASCII = ASCII.map(object => object.Char).indexOf(ToDecipher[i]);
