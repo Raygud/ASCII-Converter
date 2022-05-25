@@ -51,6 +51,6 @@ This one works in a similar manner to the first function i just had to work "Bac
 ```javascript 
 let indexInASCII = ASCII.map(object => object.Code).indexOf(ToDecipher.substr(i, 6));
 ```
- and now we are simply swapping out object.Code with object.Char and Character code with ToDecipher[i](letter from string) = 
+ and now we are simply swapping out object.Code with object.Char and Character code(ToDecipher.substr(i, 6)) with ToDecipher[i](letter from string) = 
 ```javascript
 let indexInASCII = ASCII.map(object => object.Char).indexOf(ToDecipher[i]);```
