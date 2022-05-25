@@ -1,4 +1,4 @@
-# Faroese-letter-Decoder-Encoder
+# UTF-8-ASCII-Converter-Js
 
 ## Line 81 - Check if string is spaced by +(or what ever you need)
 ```
