@@ -47,6 +47,10 @@ for (let i = 0; i < ToDecipher.length; i++) {
     }
 ```
 
-This one works in a similar manner to the first function i just had to work "Backwards" i had to make a few tweaks since we are looking for singular letters this time. so we start by looping trough our string and checking if any of our characters exist inside one of the ASCII objects, when we do confirm that the character exists in the the array of objects we just flip the code from our previous function before it was ```javascript 
-let indexInASCII = ASCII.map(object => object.Code).indexOf(ToDecipher.substr(i, 6));```
-javascript and now we are simply swapping out object.Code with object.Char and Character code with ToDecipher[i](letter from string) = ```let indexInASCII = ASCII.map(object => object.Char).indexOf(ToDecipher[i]);```
+This one works in a similar manner to the first function i just had to work "Backwards" i had to make a few tweaks since we are looking for singular letters this time. so we start by looping trough our string and checking if any of our characters exist inside one of the ASCII objects, when we do confirm that the character exists in the the array of objects we just flip the code from our previous function before it was 
+```javascript 
+let indexInASCII = ASCII.map(object => object.Code).indexOf(ToDecipher.substr(i, 6));
+```
+ and now we are simply swapping out object.Code with object.Char and Character code with ToDecipher[i](letter from string) = 
+```javascript
+let indexInASCII = ASCII.map(object => object.Char).indexOf(ToDecipher[i]);```
