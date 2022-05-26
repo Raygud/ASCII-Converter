@@ -1,0 +1,3611 @@
+{
+    "data": [
+        { Code: "%C2%A0", 
+      Char: "¡"
+        },
+        { Code: "%C2%A1", Char: "¢"
+        },
+        { Code: "%C2%A2", Char: "£"
+        },
+        { Code: "%C2%A3", Char: "¤"
+        },
+        { Code: "%C2%A4", Char: "¥"
+        },
+        { Code: "%C2%A5", Char: "¦"
+        },
+        { Code: "%C2%A6", Char: "§"
+        },
+        { Code: "%C2%A7", Char: "¨"
+        },
+        { Code: "%C2%A8", Char: "©"
+        },
+        { Code: "%C2%A9", Char: "ª"
+        },
+        { Code: "%C2%AA", Char: "«"
+        },
+        { Code: "%C2%AB", Char: "¬"
+        },
+        { Code: "%C2%AC", Char: "­"
+        },
+        { Code: "%C2%AD", Char: "®"
+        },
+        { Code: "%C2%AE", Char: "¯"
+        },
+        { Code: "%C2%B0", Char: "±"
+        },
+        { Code: "%C2%B1", Char: "²"
+        },
+        { Code: "%C2%B2", Char: "³"
+        },
+        { Code: "%C2%B3", Char: "´"
+        },
+        { Code: "%C2%B4", Char: "µ"
+        },
+        { Code: "%C2%B5", Char: "¶"
+        },
+        { Code: "%C2%B6", Char: "·"
+        },
+        { Code: "%C2%B7", Char: "¸"
+        },
+        { Code: "%C2%B8", Char: "¹"
+        },
+        { Code: "%C2%B9", Char: "º"
+        },
+        { Code: "%C2%BA", Char: "»"
+        },
+        { Code: "%C2%BB", Char: "¼"
+        },
+        { Code: "%C2%BC", Char: "½"
+        },
+        { Code: "%C2%BD", Char: "¾"
+        },
+        { Code: "%C2%BE", Char: "¿"
+        },
+        { Code: "%C3%81", Char: "À"
+        },
+        { Code: "%C3%80", Char: "Á"
+        },
+        { Code: "%C3%81", Char: "Â"
+        },
+        { Code: "%C3%82", Char: "Ã"
+        },
+        { Code: "%C3%83", Char: "Ä"
+        },
+        { Code: "%C3%84", Char: "Å"
+        },
+        { Code: "%C3%85", Char: "Æ"
+        },
+        { Code: "%C3%86", Char: "Ç"
+        },
+        { Code: "%C3%87", Char: "È"
+        },
+        { Code: "%C3%88", Char: "É"
+        },
+        { Code: "%C3%89", Char: "Ê"
+        },
+        { Code: "%C3%8A", Char: "Ë"
+        },
+        { Code: "%C3%8B", Char: "Ì"
+        },
+        { Code: "%C3%8C", Char: "Í"
+        },
+        { Code: "%C3%8D", Char: "Î"
+        },
+        { Code: "%C3%8E", Char: "Ï"
+        },
+        { c3Code: "% 8%  ", Char: " }Ð"
+        },
+        { Code: "%C3%90", Char: "Ñ"
+        },
+        { Code: "%C3%91", Char: "Ò"
+        },
+        { Code: "%C3%92", Char: "Ó"
+        },
+        { Code: "%C3%93", Char: "Ô"
+        },
+        { Code: "%C3%94", Char: "Õ"
+        },
+        { Code: "%C3%95", Char: "Ö"
+        },
+        { Code: "%C3%96", Char: "×"
+        },
+        { Code: "%C3%97", Char: "Ø"
+        },
+        { Code: "%C3%98", Char: "Ù"
+        },
+        { Code: "%C3%99", Char: "Ú"
+        },
+        { Code: "%C3%9A", Char: "Û"
+        },
+        { Code: "%C3%9B", Char: "Ü"
+        },
+        { Code: "%C3%9C", Char: "Ý"
+        },
+        { Code: "%C3%9D", Char: "Þ"
+        },
+        { Code: "%C3%9E", Char: "ß"
+        },
+        { c3Code: "% 9%  ", Char: " }à"
+        },
+        { Code: "%C3%A0", Char: "á"
+        },
+        { Code: "%C3%A1", Char: "â"
+        },
+        { Code: "%C3%A2", Char: "ã"
+        },
+        { Code: "%C3%A3", Char: "ä"
+        },
+        { Code: "%C3%A4", Char: "å"
+        },
+        { Code: "%C3%A5", Char: "æ"
+        },
+        { Code: "%C3%A6", Char: "ç"
+        },
+        { Code: "%C3%A7", Char: "è"
+        },
+        { Code: "%C3%A8", Char: "é"
+        },
+        { Code: "%C3%A9", Char: "ê"
+        },
+        { Code: "%C3%AA", Char: "ë"
+        },
+        { Code: "%C3%AB", Char: "ì"
+        },
+        { Code: "%C3%AC", Char: "í"
+        },
+        { Code: "%C3%AD", Char: "î"
+        },
+        { Code: "%C3%AE", Char: "ï"
+        },
+        { c3Code: "% a%  ", Char: " ð"
+        },
+        { Code: "%C3%B0", Char: "ñ"
+        },
+        { Code: "%C3%B1", Char: "ò"
+        },
+        { Code: "%C3%B2", Char: "ó"
+        },
+        { Code: "%C3%B3", Char: "ô"
+        },
+        { Code: "%C3%B4", Char: "õ"
+        },
+        { Code: "%C3%B5", Char: "ö"
+        },
+        { Code: "%C3%B6", Char: "÷"
+        },
+        { Code: "%C3%B7", Char: "ø"
+        },
+        { Code: "%C3%B8", Char: "ù"
+        },
+        { Code: "%C3%B9", Char: "ú"
+        },
+        { Code: "%C3%BA", Char: "û"
+        },
+        { Code: "%C3%BB", Char: "ü"
+        },
+        { Code: "%C3%BC", Char: "ý"
+        },
+        { Code: "%C3%BD", Char: "þ"
+        },
+        { Code: "%C3%BE", Char: "ÿ"
+        },
+        { c3Code: "% b%  ", Char: " Ā"
+        },
+        { Code: "%C4%80", Char: "ā"
+        },
+        { Code: "%C4%81", Char: "Ă"
+        },
+        { Code: "%C4%82", Char: "ă"
+        },
+        { Code: "%C4%83", Char: "Ą"
+        },
+        { Code: "%C4%84", Char: "ą"
+        },
+        { Code: "%C4%85", Char: "Ć"
+        },
+        { Code: "%C4%86", Char: "ć"
+        },
+        { Code: "%C4%87", Char: "Ĉ"
+        },
+        { Code: "%C4%88", Char: "ĉ"
+        },
+        { Code: "%C4%89", Char: "Ċ"
+        },
+        { Code: "%C4%8A", Char: "ċ"
+        },
+        { Code: "%C4%8B", Char: "Č"
+        },
+        { Code: "%C4%8C", Char: "č"
+        },
+        { Code: "%C4%8D", Char: "Ď"
+        },
+        { Code: "%C4%8E", Char: "ď"
+        },
+        { c4Code: "% 8%  ", Char: " Đ"
+        },
+        { Code: "%C4%90", Char: "đ"
+        },
+        { Code: "%C4%91", Char: "Ē"
+        },
+        { Code: "%C4%92", Char: "ē"
+        },
+        { Code: "%C4%93", Char: "Ĕ"
+        },
+        { Code: "%C4%94", Char: "ĕ"
+        },
+        { Code: "%C4%95", Char: "Ė"
+        },
+        { Code: "%C4%96", Char: "ė"
+        },
+        { Code: "%C4%97", Char: "Ę"
+        },
+        { Code: "%C4%98", Char: "ę"
+        },
+        { Code: "%C4%99", Char: "Ě"
+        },
+        { Code: "%C4%9A", Char: "ě"
+        },
+        { Code: "%C4%9B", Char: "Ĝ"
+        },
+        { Code: "%C4%9C", Char: "ĝ"
+        },
+        { Code: "%C4%9D", Char: "Ğ"
+        },
+        { Code: "%C4%9E", Char: "ğ"
+        },
+        { c4Code: "% 9%  ", Char: " Ġ"
+        },
+        { Code: "%C4%A0", Char: "ġ"
+        },
+        { Code: "%C4%A1", Char: "Ģ"
+        },
+        { Code: "%C4%A2", Char: "ģ"
+        },
+        { Code: "%C4%A3", Char: "Ĥ"
+        },
+        { Code: "%C4%A4", Char: "ĥ"
+        },
+        { Code: "%C4%A5", Char: "Ħ"
+        },
+        { Code: "%C4%A6", Char: "ħ"
+        },
+        { Code: "%C4%A7", Char: "Ĩ"
+        },
+        { Code: "%C4%A8", Char: "ĩ"
+        },
+        { Code: "%C4%A9", Char: "Ī"
+        },
+        { Code: "%C4%AA", Char: "ī"
+        },
+        { Code: "%C4%AB", Char: "Ĭ"
+        },
+        { Code: "%C4%AC", Char: "ĭ"
+        },
+        { Code: "%C4%AD", Char: "Į"
+        },
+        { Code: "%C4%AE", Char: "į"
+        },
+        { c4Code: "% a%  ", Char: " İ"
+        },
+        { Code: "%C4%B0", Char: "ı"
+        },
+        { Code: "%C4%B1", Char: "Ĳ"
+        },
+        { Code: "%C4%B2", Char: "ĳ"
+        },
+        { Code: "%C4%B3", Char: "Ĵ"
+        },
+        { Code: "%C4%B4", Char: "ĵ"
+        },
+        { Code: "%C4%B5", Char: "Ķ"
+        },
+        { Code: "%C4%B6", Char: "ķ"
+        },
+        { Code: "%C4%B7", Char: "ĸ"
+        },
+        { Code: "%C4%B8", Char: "Ĺ"
+        },
+        { Code: "%C4%B9", Char: "ĺ"
+        },
+        { Code: "%C4%BA", Char: "Ļ"
+        },
+        { Code: "%C4%BB", Char: "ļ"
+        },
+        { Code: "%C4%BC", Char: "Ľ"
+        },
+        { Code: "%C4%BD", Char: "ľ"
+        },
+        { Code: "%C4%BE", Char: "Ŀ"
+        },
+        { c4Code: "% b%  ", Char: " ŀ"
+        },
+        { Code: "%C5%80", Char: "Ł"
+        },
+        { Code: "%C5%81", Char: "ł"
+        },
+        { Code: "%C5%82", Char: "Ń"
+        },
+        { Code: "%C5%83", Char: "ń"
+        },
+        { Code: "%C5%84", Char: "Ņ"
+        },
+        { Code: "%C5%85", Char: "ņ"
+        },
+        { Code: "%C5%86", Char: "Ň"
+        },
+        { Code: "%C5%87", Char: "ň"
+        },
+        { Code: "%C5%88", Char: "ŉ"
+        },
+        { Code: "%C5%89", Char: "Ŋ"
+        },
+        { Code: "%C5%8A", Char: "ŋ"
+        },
+        { Code: "%C5%8B", Char: "Ō"
+        },
+        { Code: "%C5%8C", Char: "ō"
+        },
+        { Code: "%C5%8D", Char: "Ŏ"
+        },
+        { Code: "%C5%8E", Char: "ŏ"
+        },
+        { c5Code: "% 8%  ", Char: " Ő"
+        },
+        { Code: "%C5%90", Char: "ő"
+        },
+        { Code: "%C5%91", Char: "Œ"
+        },
+        { Code: "%C5%92", Char: "œ"
+        },
+        { Code: "%C5%93", Char: "Ŕ"
+        },
+        { Code: "%C5%94", Char: "ŕ"
+        },
+        { Code: "%C5%95", Char: "Ŗ"
+        },
+        { Code: "%C5%96", Char: "ŗ"
+        },
+        { Code: "%C5%97", Char: "Ř"
+        },
+        { Code: "%C5%98", Char: "ř"
+        },
+        { Code: "%C5%99", Char: "Ś"
+        },
+        { Code: "%C5%9A", Char: "ś"
+        },
+        { Code: "%C5%9B", Char: "Ŝ"
+        },
+        { Code: "%C5%9C", Char: "ŝ"
+        },
+        { Code: "%C5%9D", Char: "Ş"
+        },
+        { Code: "%C5%9E", Char: "ş"
+        },
+        { c5Code: "% 9%  ", Char: "Š"
+        },
+        { Code: "%C5%A0", Char: "š"
+        },
+        { Code: "%C5%A1", Char: "Ţ"
+        },
+        { Code: "%C5%A2", Char: "ţ"
+        },
+        { Code: "%C5%A3", Char: "Ť"
+        },
+        { Code: "%C5%A4", Char: "ť"
+        },
+        { Code: "%C5%A5", Char: "Ŧ"
+        },
+        { Code: "%C5%A6", Char: "ŧ"
+        },
+        { Code: "%C5%A7", Char: "Ũ"
+        },
+        { Code: "%C5%A8", Char: "ũ"
+        },
+        { Code: "%C5%A9", Char: "Ū"
+        },
+        { Code: "%C5%AA", Char: "ū"
+        },
+        { Code: "%C5%AB", Char: "Ŭ"
+        },
+        { Code: "%C5%AC", Char: "ŭ"
+        },
+        { Code: "%C5%AD", Char: "Ů"
+        },
+        { Code: "%C5%AE", Char: "ů"
+        },
+        { c5Code: "% a%  ", Char: "Ű"
+        },
+        { Code: "%C5%B0", Char: "ű"
+        },
+        { Code: "%C5%B1", Char: "Ų"
+        },
+        { Code: "%C5%B2", Char: "ų"
+        },
+        { Code: "%C5%B3", Char: "Ŵ"
+        },
+        { Code: "%C5%B4", Char: "ŵ"
+        },
+        { Code: "%C5%B5", Char: "Ŷ"
+        },
+        { Code: "%C5%B6", Char: "ŷ"
+        },
+        { Code: "%C5%B7", Char: "Ÿ"
+        },
+        { Code: "%C5%B8", Char: "Ź"
+        },
+        { Code: "%C5%B9", Char: "ź"
+        },
+        { Code: "%C5%BA", Char: "Ż"
+        },
+        { Code: "%C5%BB", Char: "ż"
+        },
+        { Code: "%C5%BC", Char: "Ž"
+        },
+        { Code: "%C5%BD", Char: "ž"
+        },
+        { Code: "%C5%BE", Char: "ſ"
+        },
+        { c5Code: "% b%  ", Char: "ƀ"
+        },
+        { Code: "%C6%80", Char: "Ɓ"
+        },
+        { Code: "%C6%81", Char: "Ƃ"
+        },
+        { Code: "%C6%82", Char: "ƃ"
+        },
+        { Code: "%C6%83", Char: "Ƅ"
+        },
+        { Code: "%C6%84", Char: "ƅ"
+        },
+        { Code: "%C6%85", Char: "Ɔ"
+        },
+        { Code: "%C6%86", Char: "Ƈ"
+        },
+        { Code: "%C6%87", Char: "ƈ"
+        },
+        { Code: "%C6%88", Char: "Ɖ"
+        },
+        { Code: "%C6%89", Char: "Ɗ"
+        },
+        { Code: "%C6%8A", Char: "Ƌ"
+        },
+        { Code: "%C6%8B", Char: "ƌ"
+        },
+        { Code: "%C6%8C", Char: "ƍ"
+        },
+        { Code: "%C6%8D", Char: "Ǝ"
+        },
+        { Code: "%C6%8E", Char: "Ə"
+        },
+        { c6Code: "% 8%  ", Char: "Ɛ"
+        },
+        { Code: "%C6%90", Char: "Ƒ"
+        },
+        { Code: "%C6%91", Char: "ƒ"
+        },
+        { Code: "%C6%92", Char: "Ɠ"
+        },
+        { Code: "%C6%93", Char: "Ɣ"
+        },
+        { Code: "%C6%94", Char: "ƕ"
+        },
+        { Code: "%C6%95", Char: "Ɩ"
+        },
+        { Code: "%C6%96", Char: "Ɨ"
+        },
+        { Code: "%C6%97", Char: "Ƙ"
+        },
+        { Code: "%C6%98", Char: "ƙ"
+        },
+        { Code: "%C6%99", Char: "ƚ"
+        },
+        { Code: "%C6%9A", Char: "ƛ"
+        },
+        { Code: "%C6%9B", Char: "Ɯ"
+        },
+        { Code: "%C6%9C", Char: "Ɲ"
+        },
+        { Code: "%C6%9D", Char: "ƞ"
+        },
+        { Code: "%C6%9E", Char: "Ɵ"
+        },
+        { c6Code: "% 9%  ", Char: "Ơ"
+        },
+        { Code: "%C6%A0", Char: "ơ"
+        },
+        { Code: "%C6%A1", Char: "Ƣ"
+        },
+        { Code: "%C6%A2", Char: "ƣ"
+        },
+        { Code: "%C6%A3", Char: "Ƥ"
+        },
+        { Code: "%C6%A4", Char: "ƥ"
+        },
+        { Code: "%C6%A5", Char: "Ʀ"
+        },
+        { Code: "%C6%A6", Char: "Ƨ"
+        },
+        { Code: "%C6%A7", Char: "ƨ"
+        },
+        { Code: "%C6%A8", Char: "Ʃ"
+        },
+        { Code: "%C6%A9", Char: "ƪ"
+        },
+        { Code: "%C6%AA", Char: "ƫ"
+        },
+        { Code: "%C6%AB", Char: "Ƭ"
+        },
+        { Code: "%C6%AC", Char: "ƭ"
+        },
+        { Code: "%C6%AD", Char: "Ʈ"
+        },
+        { Code: "%C6%AE", Char: "Ư"
+        },
+        { c6Code: "% a%  ", Char: "ư"
+        },
+        { Code: "%C6%B0", Char: "Ʊ"
+        },
+        { Code: "%C6%B1", Char: "Ʋ"
+        },
+        { Code: "%C6%B2", Char: "Ƴ"
+        },
+        { Code: "%C6%B3", Char: "ƴ"
+        },
+        { Code: "%C6%B4", Char: "Ƶ"
+        },
+        { Code: "%C6%B5", Char: "ƶ"
+        },
+        { Code: "%C6%B6", Char: "Ʒ"
+        },
+        { Code: "%C6%B7", Char: "Ƹ"
+        },
+        { Code: "%C6%B8", Char: "ƹ"
+        },
+        { Code: "%C6%B9", Char: "ƺ"
+        },
+        { Code: "%C6%BA", Char: "ƻ"
+        },
+        { Code: "%C6%BB", Char: "Ƽ"
+        },
+        { Code: "%C6%BC", Char: "ƽ"
+        },
+        { Code: "%C6%BD", Char: "ƾ"
+        },
+        { Code: "%C6%BE", Char: "ƿ"
+        },
+        { c6Code: "% b%  ", Char: "ǀ"
+        },
+        { Code: "%C7%80", Char: "ǁ"
+        },
+        { Code: "%C7%81", Char: "ǂ"
+        },
+        { Code: "%C7%82", Char: "ǃ"
+        },
+        { Code: "%C7%83", Char: "Ǆ"
+        },
+        { Code: "%C7%84", Char: "ǅ"
+        },
+        { Code: "%C7%85", Char: "ǆ"
+        },
+        { Code: "%C7%86", Char: "Ǉ"
+        },
+        { Code: "%C7%87", Char: "ǈ"
+        },
+        { Code: "%C7%88", Char: "ǉ"
+        },
+        { Code: "%C7%89", Char: "Ǌ"
+        },
+        { Code: "%C7%8A", Char: "ǋ"
+        },
+        { Code: "%C7%8B", Char: "ǌ"
+        },
+        { Code: "%C7%8C", Char: "Ǎ"
+        },
+        { Code: "%C7%8D", Char: "ǎ"
+        },
+        { Code: "%C7%8E", Char: "Ǐ"
+        },
+        { c7Code: "% 8%  ", Char: "ǐ"
+        },
+        { Code: "%C7%90", Char: "Ǒ"
+        },
+        { Code: "%C7%91", Char: "ǒ"
+        },
+        { Code: "%C7%92", Char: "Ǔ"
+        },
+        { Code: "%C7%93", Char: "ǔ"
+        },
+        { Code: "%C7%94", Char: "Ǖ"
+        },
+        { Code: "%C7%95", Char: "ǖ"
+        },
+        { Code: "%C7%96", Char: "Ǘ"
+        },
+        { Code: "%C7%97", Char: "ǘ"
+        },
+        { Code: "%C7%98", Char: "Ǚ"
+        },
+        { Code: "%C7%99", Char: "ǚ"
+        },
+        { Code: "%C7%9A", Char: "Ǜ"
+        },
+        { Code: "%C7%9B", Char: "ǜ"
+        },
+        { Code: "%C7%9C", Char: "ǝ"
+        },
+        { Code: "%C7%9D", Char: "Ǟ"
+        },
+        { Code: "%C7%9E", Char: "ǟ"
+        },
+        { c7Code: "% 9%  ", Char: "Ǡ"
+        },
+        { Code: "%C7%A0", Char: "ǡ"
+        },
+        { Code: "%C7%A1", Char: "Ǣ"
+        },
+        { Code: "%C7%A2", Char: "ǣ"
+        },
+        { Code: "%C7%A3", Char: "Ǥ"
+        },
+        { Code: "%C7%A4", Char: "ǥ"
+        },
+        { Code: "%C7%A5", Char: "Ǧ"
+        },
+        { Code: "%C7%A6", Char: "ǧ"
+        },
+        { Code: "%C7%A7", Char: "Ǩ"
+        },
+        { Code: "%C7%A8", Char: "ǩ"
+        },
+        { Code: "%C7%A9", Char: "Ǫ"
+        },
+        { Code: "%C7%AA", Char: "ǫ"
+        },
+        { Code: "%C7%AB", Char: "Ǭ"
+        },
+        { Code: "%C7%AC", Char: "ǭ"
+        },
+        { Code: "%C7%AD", Char: "Ǯ"
+        },
+        { Code: "%C7%AE", Char: "ǯ"
+        },
+        { c7Code: "% a%  ", Char: "ǰ"
+        },
+        { Code: "%C7%B0", Char: "Ǳ"
+        },
+        { Code: "%C7%B1", Char: "ǲ"
+        },
+        { Code: "%C7%B2", Char: "ǳ"
+        },
+        { Code: "%C7%B3", Char: "Ǵ"
+        },
+        { Code: "%C7%B4", Char: "ǵ"
+        },
+        { Code: "%C7%B5", Char: "Ƕ"
+        },
+        { Code: "%C7%B6", Char: "Ƿ"
+        },
+        { Code: "%C7%B7", Char: "Ǹ"
+        },
+        { Code: "%C7%B8", Char: "ǹ"
+        },
+        { Code: "%C7%B9", Char: "Ǻ"
+        },
+        { Code: "%C7%BA", Char: "ǻ"
+        },
+        { Code: "%C7%BB", Char: "Ǽ"
+        },
+        { Code: "%C7%BC", Char: "ǽ"
+        },
+        { Code: "%C7%BD", Char: "Ǿ"
+        },
+        { Code: "%C7%BE", Char: "ǿ"
+        },
+        { c7Code: "% b%  ", Char: "Ȁ"
+        },
+        { Code: "%C8%80", Char: "ȁ"
+        },
+        { Code: "%C8%81", Char: "Ȃ"
+        },
+        { Code: "%C8%82", Char: "ȃ"
+        },
+        { Code: "%C8%83", Char: "Ȅ"
+        },
+        { Code: "%C8%84", Char: "ȅ"
+        },
+        { Code: "%C8%85", Char: "Ȇ"
+        },
+        { Code: "%C8%86", Char: "ȇ"
+        },
+        { Code: "%C8%87", Char: "Ȉ"
+        },
+        { Code: "%C8%88", Char: "ȉ"
+        },
+        { Code: "%C8%89", Char: "Ȋ"
+        },
+        { Code: "%C8%8A", Char: "ȋ"
+        },
+        { Code: "%C8%8B", Char: "Ȍ"
+        },
+        { Code: "%C8%8C", Char: "ȍ"
+        },
+        { Code: "%C8%8D", Char: "Ȏ"
+        },
+        { Code: "%C8%8E", Char: "ȏ"
+        },
+        { c8Code: "% 8%  ", Char: "Ȑ"
+        },
+        { Code: "%C8%90", Char: "ȑ"
+        },
+        { Code: "%C8%91", Char: "Ȓ"
+        },
+        { Code: "%C8%92", Char: "ȓ"
+        },
+        { Code: "%C8%93", Char: "Ȕ"
+        },
+        { Code: "%C8%94", Char: "ȕ"
+        },
+        { Code: "%C8%95", Char: "Ȗ"
+        },
+        { Code: "%C8%96", Char: "ȗ"
+        },
+        { Code: "%C8%97", Char: "Ș"
+        },
+        { Code: "%C8%98", Char: "ș"
+        },
+        { Code: "%C8%99", Char: "Ț"
+        },
+        { Code: "%C8%9A", Char: "ț"
+        },
+        { Code: "%C8%9B", Char: "Ȝ"
+        },
+        { Code: "%C8%9C", Char: "ȝ"
+        },
+        { Code: "%C8%9D", Char: "Ȟ"
+        },
+        { Code: "%C8%9E", Char: "ȟ"
+        },
+        { c8Code: "% 9%  ", Char: "Ƞ"
+        },
+        { Code: "%C8%A0", Char: "ȡ"
+        },
+        { Code: "%C8%A1", Char: "Ȣ"
+        },
+        { Code: "%C8%A2", Char: "ȣ"
+        },
+        { Code: "%C8%A3", Char: "Ȥ"
+        },
+        { Code: "%C8%A4", Char: "ȥ"
+        },
+        { Code: "%C8%A5", Char: "Ȧ"
+        },
+        { Code: "%C8%A6", Char: "ȧ"
+        },
+        { Code: "%C8%A7", Char: "Ȩ"
+        },
+        { Code: "%C8%A8", Char: "ȩ"
+        },
+        { Code: "%C8%A9", Char: "Ȫ"
+        },
+        { Code: "%C8%AA", Char: "ȫ"
+        },
+        { Code: "%C8%AB", Char: "Ȭ"
+        },
+        { Code: "%C8%AC", Char: "ȭ"
+        },
+        { Code: "%C8%AD", Char: "Ȯ"
+        },
+        { Code: "%C8%AE", Char: "ȯ"
+        },
+        { c8Code: "% a%  ", Char: "Ȱ"
+        },
+        { Code: "%C8%B0", Char: "ȱ"
+        },
+        { Code: "%C8%B1", Char: "Ȳ"
+        },
+        { Code: "%C8%B2", Char: "ȳ"
+        },
+        { Code: "%C8%B3", Char: "ȴ"
+        },
+        { Code: "%C8%B4", Char: "ȵ"
+        },
+        { Code: "%C8%B5", Char: "ȶ"
+        },
+        { Code: "%C8%B6", Char: "ȷ"
+        },
+        { Code: "%C8%B7", Char: "ȸ"
+        },
+        { Code: "%C8%B8", Char: "ȹ"
+        },
+        { Code: "%C8%B9", Char: "Ⱥ"
+        },
+        { Code: "%C8%BA", Char: "Ȼ"
+        },
+        { Code: "%C8%BB", Char: "ȼ"
+        },
+        { Code: "%C8%BC", Char: "Ƚ"
+        },
+        { Code: "%C8%BD", Char: "Ⱦ"
+        },
+        { Code: "%C8%BE", Char: "ȿ"
+        },
+        { c8Code: "% b%  ", Char: "ɀ"
+        },
+        { Code: "%C9%80", Char: "Ɂ"
+        },
+        { Code: "%C9%81", Char: "ɂ"
+        },
+        { Code: "%C9%82", Char: "Ƀ"
+        },
+        { Code: "%C9%83", Char: "Ʉ"
+        },
+        { Code: "%C9%84", Char: "Ʌ"
+        },
+        { Code: "%C9%85", Char: "Ɇ"
+        },
+        { Code: "%C9%86", Char: "ɇ"
+        },
+        { Code: "%C9%87", Char: "Ɉ"
+        },
+        { Code: "%C9%88", Char: "ɉ"
+        },
+        { Code: "%C9%89", Char: "Ɋ"
+        },
+        { Code: "%C9%8A", Char: "ɋ"
+        },
+        { Code: "%C9%8B", Char: "Ɍ"
+        },
+        { Code: "%C9%8C", Char: "ɍ"
+        },
+        { Code: "%C9%8D", Char: "Ɏ"
+        },
+        { Code: "%C9%8E", Char: "ɏ"
+        },
+        { c9Code: "% 8%  ", Char: "ɐ"
+        },
+        { Code: "%C9%90", Char: "ɑ"
+        },
+        { Code: "%C9%91", Char: "ɒ"
+        },
+        { Code: "%C9%92", Char: "ɓ"
+        },
+        { Code: "%C9%93", Char: "ɔ"
+        },
+        { Code: "%C9%94", Char: "ɕ"
+        },
+        { Code: "%C9%95", Char: "ɖ"
+        },
+        { Code: "%C9%96", Char: "ɗ"
+        },
+        { Code: "%C9%97", Char: "ɘ"
+        },
+        { Code: "%C9%98", Char: "ə"
+        },
+        { Code: "%C9%99", Char: "ɚ"
+        },
+        { Code: "%C9%9A", Char: "ɛ"
+        },
+        { Code: "%C9%9B", Char: "ɜ"
+        },
+        { Code: "%C9%9C", Char: "ɝ"
+        },
+        { Code: "%C9%9D", Char: "ɞ"
+        },
+        { Code: "%C9%9E", Char: "ɟ"
+        },
+        { c9Code: "% 9%  ", Char: "ɠ"
+        },
+        { Code: "%C9%A0", Char: "ɡ"
+        },
+        { Code: "%C9%A1", Char: "ɢ"
+        },
+        { Code: "%C9%A2", Char: "ɣ"
+        },
+        { Code: "%C9%A3", Char: "ɤ"
+        },
+        { Code: "%C9%A4", Char: "ɥ"
+        },
+        { Code: "%C9%A5", Char: "ɦ"
+        },
+        { Code: "%C9%A6", Char: "ɧ"
+        },
+        { Code: "%C9%A7", Char: "ɨ"
+        },
+        { Code: "%C9%A8", Char: "ɩ"
+        },
+        { Code: "%C9%A9", Char: "ɪ"
+        },
+        { Code: "%C9%AA", Char: "ɫ"
+        },
+        { Code: "%C9%AB", Char: "ɬ"
+        },
+        { Code: "%C9%AC", Char: "ɭ"
+        },
+        { Code: "%C9%AD", Char: "ɮ"
+        },
+        { Code: "%C9%AE", Char: "ɯ"
+        },
+        { c9Code: "% a%  ", Char: "ɰ"
+        },
+        { Code: "%C9%B0", Char: "ɱ"
+        },
+        { Code: "%C9%B1", Char: "ɲ"
+        },
+        { Code: "%C9%B2", Char: "ɳ"
+        },
+        { Code: "%C9%B3", Char: "ɴ"
+        },
+        { Code: "%C9%B4", Char: "ɵ"
+        },
+        { Code: "%C9%B5", Char: "ɶ"
+        },
+        { Code: "%C9%B6", Char: "ɷ"
+        },
+        { Code: "%C9%B7", Char: "ɸ"
+        },
+        { Code: "%C9%B8", Char: "ɹ"
+        },
+        { Code: "%C9%B9", Char: "ɺ"
+        },
+        { Code: "%C9%BA", Char: "ɻ"
+        },
+        { Code: "%C9%BB", Char: "ɼ"
+        },
+        { Code: "%C9%BC", Char: "ɽ"
+        },
+        { Code: "%C9%BD", Char: "ɾ"
+        },
+        { Code: "%C9%BE", Char: "ɿ"
+        },
+        { c9Code: "% b%  ", Char: "ʀ"
+        },
+        { Code: "%CA%80", Char: "ʁ"
+        },
+        { Code: "%CA%81", Char: "ʂ"
+        },
+        { Code: "%CA%82", Char: "ʃ"
+        },
+        { Code: "%CA%83", Char: "ʄ"
+        },
+        { Code: "%CA%84", Char: "ʅ"
+        },
+        { Code: "%CA%85", Char: "ʆ"
+        },
+        { Code: "%CA%86", Char: "ʇ"
+        },
+        { Code: "%CA%87", Char: "ʈ"
+        },
+        { Code: "%CA%88", Char: "ʉ"
+        },
+        { Code: "%CA%89", Char: "ʊ"
+        },
+        { Code: "%CA%8A", Char: "ʋ"
+        },
+        { Code: "%CA%8B", Char: "ʌ"
+        },
+        { Code: "%CA%8C", Char: "ʍ"
+        },
+        { Code: "%CA%8D", Char: "ʎ"
+        },
+        { Code: "%CA%8E", Char: "ʏ"
+        },
+        { caCode: "% 8%  ", Char: "ʐ"
+        },
+        { Code: "%CA%90", Char: "ʑ"
+        },
+        { Code: "%CA%91", Char: "ʒ"
+        },
+        { Code: "%CA%92", Char: "ʓ"
+        },
+        { Code: "%CA%93", Char: "ʔ"
+        },
+        { Code: "%CA%94", Char: "ʕ"
+        },
+        { Code: "%CA%95", Char: "ʖ"
+        },
+        { Code: "%CA%96", Char: "ʗ"
+        },
+        { Code: "%CA%97", Char: "ʘ"
+        },
+        { Code: "%CA%98", Char: "ʙ"
+        },
+        { Code: "%CA%99", Char: "ʚ"
+        },
+        { Code: "%CA%9A", Char: "ʛ"
+        },
+        { Code: "%CA%9B", Char: "ʜ"
+        },
+        { Code: "%CA%9C", Char: "ʝ"
+        },
+        { Code: "%CA%9D", Char: "ʞ"
+        },
+        { Code: "%CA%9E", Char: "ʟ"
+        },
+        { caCode: "% 9%  ", Char: "ʠ"
+        },
+        { Code: "%CA%A0", Char: "ʡ"
+        },
+        { Code: "%CA%A1", Char: "ʢ"
+        },
+        { Code: "%CA%A2", Char: "ʣ"
+        },
+        { Code: "%CA%A3", Char: "ʤ"
+        },
+        { Code: "%CA%A4", Char: "ʥ"
+        },
+        { Code: "%CA%A5", Char: "ʦ"
+        },
+        { Code: "%CA%A6", Char: "ʧ"
+        },
+        { Code: "%CA%A7", Char: "ʨ"
+        },
+        { Code: "%CA%A8", Char: "ʩ"
+        },
+        { Code: "%CA%A9", Char: "ʪ"
+        },
+        { Code: "%CA%AA", Char: "ʫ"
+        },
+        { Code: "%CA%AB", Char: "ʬ"
+        },
+        { Code: "%CA%AC", Char: "ʭ"
+        },
+        { Code: "%CA%AD", Char: "ʮ"
+        },
+        { Code: "%CA%AE", Char: "ʯ"
+        },
+        { caCode: "% a%  ", Char: "ʰ"
+        },
+        { Code: "%CA%B0", Char: "ʱ"
+        },
+        { Code: "%CA%B1", Char: "ʲ"
+        },
+        { Code: "%CA%B2", Char: "ʳ"
+        },
+        { Code: "%CA%B3", Char: "ʴ"
+        },
+        { Code: "%CA%B4", Char: "ʵ"
+        },
+        { Code: "%CA%B5", Char: "ʶ"
+        },
+        { Code: "%CA%B6", Char: "ʷ"
+        },
+        { Code: "%CA%B7", Char: "ʸ"
+        },
+        { Code: "%CA%B8", Char: "ʹ"
+        },
+        { Code: "%CA%B9", Char: "ʺ"
+        },
+        { Code: "%CA%BA", Char: "ʻ"
+        },
+        { Code: "%CA%BB", Char: "ʼ"
+        },
+        { Code: "%CA%BC", Char: "ʽ"
+        },
+        { Code: "%CA%BD", Char: "ʾ"
+        },
+        { Code: "%CA%BE", Char: "ʿ"
+        },
+        { caCode: "% b%  ", Char: "ˀ"
+        },
+        { Code: "%CB%80", Char: "ˁ"
+        },
+        { Code: "%CB%81", Char: "˂"
+        },
+        { Code: "%CB%82", Char: "˃"
+        },
+        { Code: "%CB%83", Char: "˄"
+        },
+        { Code: "%CB%84", Char: "˅"
+        },
+        { Code: "%CB%85", Char: "ˆ"
+        },
+        { Code: "%CB%86", Char: "ˇ"
+        },
+        { Code: "%CB%87", Char: "ˈ"
+        },
+        { Code: "%CB%88", Char: "ˉ"
+        },
+        { Code: "%CB%89", Char: "ˊ"
+        },
+        { Code: "%CB%8A", Char: "ˋ"
+        },
+        { Code: "%CB%8B", Char: "ˌ"
+        },
+        { Code: "%CB%8C", Char: "ˍ"
+        },
+        { Code: "%CB%8D", Char: "ˎ"
+        },
+        { Code: "%CB%8E", Char: "ˏ"
+        },
+        { cbCode: "% 8%  ", Char: "ː"
+        },
+        { Code: "%CB%90", Char: "ˑ"
+        },
+        { Code: "%CB%91", Char: "˒"
+        },
+        { Code: "%CB%92", Char: "˓"
+        },
+        { Code: "%CB%93", Char: "˔"
+        },
+        { Code: "%CB%94", Char: "˕"
+        },
+        { Code: "%CB%95", Char: "˖"
+        },
+        { Code: "%CB%96", Char: "˗"
+        },
+        { Code: "%CB%97", Char: "˘"
+        },
+        { Code: "%CB%98", Char: "˙"
+        },
+        { Code: "%CB%99", Char: "˚"
+        },
+        { Code: "%CB%9A", Char: "˛"
+        },
+        { Code: "%CB%9B", Char: "˜"
+        },
+        { Code: "%CB%9C", Char: "˝"
+        },
+        { Code: "%CB%9D", Char: "˞"
+        },
+        { Code: "%CB%9E", Char: "˟"
+        },
+        { cbCode: "% 9%  ", Char: "ˠ"
+        },
+        { Code: "%CB%A0", Char: "ˡ"
+        },
+        { Code: "%CB%A1", Char: "ˢ"
+        },
+        { Code: "%CB%A2", Char: "ˣ"
+        },
+        { Code: "%CB%A3", Char: "ˤ"
+        },
+        { Code: "%CB%A4", Char: "˥"
+        },
+        { Code: "%CB%A5", Char: "˦"
+        },
+        { Code: "%CB%A6", Char: "˧"
+        },
+        { Code: "%CB%A7", Char: "˨"
+        },
+        { Code: "%CB%A8", Char: "˩"
+        },
+        { Code: "%CB%A9", Char: "˪"
+        },
+        { Code: "%CB%AA", Char: "˫"
+        },
+        { Code: "%CB%AB", Char: "ˬ"
+        },
+        { Code: "%CB%AC", Char: "˭"
+        },
+        { Code: "%CB%AD", Char: "ˮ"
+        },
+        { Code: "%CB%AE", Char: "˯"
+        },
+        { cbCode: "% a%  ", Char: "˰"
+        },
+        { Code: "%CB%B0", Char: "˱"
+        },
+        { Code: "%CB%B1", Char: "˲"
+        },
+        { Code: "%CB%B2", Char: "˳"
+        },
+        { Code: "%CB%B3", Char: "˴"
+        },
+        { Code: "%CB%B4", Char: "˵"
+        },
+        { Code: "%CB%B5", Char: "˶"
+        },
+        { Code: "%CB%B6", Char: "˷"
+        },
+        { Code: "%CB%B7", Char: "˸"
+        },
+        { Code: "%CB%B8", Char: "˹"
+        },
+        { Code: "%CB%B9", Char: "˺"
+        },
+        { Code: "%CB%BA", Char: "˻"
+        },
+        { Code: "%CB%BB", Char: "˼"
+        },
+        { Code: "%CB%BC", Char: "˽"
+        },
+        { Code: "%CB%BD", Char: "˾"
+        },
+        { Code: "%CB%Be", Char: "˿"
+        },
+        { Code: "%CC%80", Char: "́"
+        },
+        { Code: "%CC%81", Char: "̂"
+        },
+        { Code: "%CC%82", Char: "̃"
+        },
+        { Code: "%CC%83", Char: "̄"
+        },
+        { Code: "%CC%84", Char: "̅"
+        },
+        { Code: "%CC%85", Char: "̆"
+        },
+        { Code: "%CC%86", Char: "̇"
+        },
+        { Code: "%CC%87", Char: "̈"
+        },
+        { Code: "%CC%88", Char: "̉"
+        },
+        { Code: "%CC%89", Char: "̊"
+        },
+        { Code: "%CC%8A", Char: "̋"
+        },
+        { Code: "%CC%8B", Char: "̌"
+        },
+        { Code: "%CC%8C", Char: "̍"
+        },
+        { Code: "%CC%8D", Char: "̎"
+        },
+        { Code: "%CC%8e", Char: "Co"
+        },
+        { Code: "}%CC%90", Char: "̑"
+        },
+        { Code: "%CC%91", Char: "̒"
+        },
+        { Code: "%CC%92", Char: "̓"
+        },
+        { Code: "%CC%93", Char: "̔"
+        },
+        { Code: "%CC%94", Char: "̕"
+        },
+        { Code: "%CC%95", Char: "̖"
+        },
+        { Code: "%CC%96", Char: "̗"
+        },
+        { Code: "%CC%97", Char: "̘"
+        },
+        { Code: "%CC%98", Char: "̙"
+        },
+        { Code: "%CC%99", Char: "̚"
+        },
+        { Code: "%CC%9A", Char: "̛"
+        },
+        { Code: "%CC%9B", Char: "̜"
+        },
+        { Code: "%CC%9C", Char: "̝"
+        },
+        { Code: "%CC%9D", Char: "̞"
+        },
+        { Code: "%CC%9e", Char: "̟"
+        },
+        { Code: "%CC%A0", Char: "̡"
+        },
+        { Code: "%CC%A1", Char: "̢"
+        },
+        { Code: "%CC%A2", Char: "̣"
+        },
+        { Code: "%CC%A3", Char: "̤"
+        },
+        { Code: "%CC%A4", Char: "̥"
+        },
+        { Code: "%CC%A5", Char: "̦"
+        },
+        { Code: "%CC%A6", Char: "̧"
+        },
+        { Code: "%CC%A7", Char: "̨"
+        },
+        { Code: "%CC%A8", Char: "̩"
+        },
+        { Code: "%CC%A9", Char: "̪"
+        },
+        { Code: "%CC%AA", Char: "̫"
+        },
+        { Code: "%CC%AB", Char: "̬"
+        },
+        { Code: "%CC%AC", Char: "̭"
+        },
+        { Code: "%CC%AD", Char: "̮"
+        },
+        { Code: "%CC%Ae", Char: "̯"
+        },
+        { Code: "%CC%B0", Char: "̱"
+        },
+        { Code: "%CC%B1", Char: "̲"
+        },
+        { Code: "%CC%B2", Char: "̳"
+        },
+        { Code: "%CC%B3", Char: "̴"
+        },
+        { Code: "%CC%B4", Char: "̵"
+        },
+        { Code: "%CC%B5", Char: "̶"
+        },
+        { Code: "%CC%B6", Char: "̷"
+        },
+        { Code: "%CC%B7", Char: "̸"
+        },
+        { Code: "%CC%B8", Char: "̹"
+        },
+        { Code: "%CC%B9", Char: "̺"
+        },
+        { Code: "%CC%BA", Char: "̻"
+        },
+        { Code: "%CC%BB", Char: "̼"
+        },
+        { Code: "%CC%BC", Char: "̽"
+        },
+        { Code: "%CC%BD", Char: "̾"
+        },
+        { Code: "%CC%Be", Char: "̿"
+        },
+        { Code: "%CD%80", Char: "́"
+        },
+        { Code: "%CD%81", Char: "͂"
+        },
+        { Code: "%CD%82", Char: "̓"
+        },
+        { Code: "%CD%83", Char: "̈́"
+        },
+        { Code: "%CD%84", Char: "ͅ"
+        },
+        { Code: "%CD%85", Char: "͆"
+        },
+        { Code: "%CD%86", Char: "͇"
+        },
+        { Code: "%CD%87", Char: "͈"
+        },
+        { Code: "%CD%88", Char: "͉"
+        },
+        { Code: "%CD%89", Char: "͊"
+        },
+        { Code: "%CD%8A", Char: "͋"
+        },
+        { Code: "%CD%8B", Char: "͌"
+        },
+        { Code: "%CD%8C", Char: "͍"
+        },
+        { Code: "%CD%8D", Char: "͎"
+        },
+        { Code: "%CD%8e", Char: "͏"
+        },
+        { Code: "%CD%90", Char: "͑"
+        },
+        { Code: "%CD%91", Char: "͒"
+        },
+        { Code: "%CD%92", Char: "͓"
+        },
+        { Code: "%CD%93", Char: "͔"
+        },
+        { Code: "%CD%94", Char: "͕"
+        },
+        { Code: "%CD%95", Char: "͖"
+        },
+        { Code: "%CD%96", Char: "͗"
+        },
+        { Code: "%CD%97", Char: "͘"
+        },
+        { Code: "%CD%98", Char: "͙"
+        },
+        { Code: "%CD%99", Char: "͚"
+        },
+        { Code: "%CD%9A", Char: "͛"
+        },
+        { Code: "%CD%9B", Char: "͜"
+        },
+        { Code: "%CD%9C", Char: "͝"
+        },
+        { Code: "%CD%9D", Char: "͞"
+        },
+        { Code: "%CD%9e", Char: "͟"
+        },
+        { Code: "%CD%A0", Char: "͡"
+        },
+        { Code: "%CD%A1", Char: "͢"
+        },
+        { Code: "%CD%A2", Char: "ͣ"
+        },
+        { Code: "%CD%A3", Char: "ͤ"
+        },
+        { Code: "%CD%A4", Char: "ͥ"
+        },
+        { Code: "%CD%A5", Char: "ͦ"
+        },
+        { Code: "%CD%A6", Char: "ͧ"
+        },
+        { Code: "%CD%A7", Char: "ͨ"
+        },
+        { Code: "%CD%A8", Char: "ͩ"
+        },
+        { Code: "%CD%A9", Char: "ͪ"
+        },
+        { Code: "%CD%AA", Char: "ͫ"
+        },
+        { Code: "%CD%AB", Char: "ͬ"
+        },
+        { Code: "%CD%AC", Char: "ͭ"
+        },
+        { Code: "%CD%AD", Char: "ͮ"
+        },
+        { Code: "%CD%Ae", Char: "ͯ"
+        },
+        { Code: "%CD%B0", Char: "ͱ"
+        },
+        { Code: "%CD%B1", Char: "Ͳ"
+        },
+        { Code: "%CD%B2", Char: "ͳ"
+        },
+        { Code: "%CD%B3", Char: "ʹ"
+        },
+        { Code: "%CD%B4", Char: "͵"
+        },
+        { Code: "%CD%B5", Char: "Ͷ"
+        },
+        { Code: "%CD%B6", Char: "ͷ"
+        },
+        { Code: "%CD%B7", Char: "͸"
+        },
+        { Code: "%CD%B8", Char: "͹"
+        },
+        { Code: "%CD%B9", Char: "ͺ"
+        },
+        { Code: "%CD%BA", Char: "ͻ"
+        },
+        { Code: "%CD%BB", Char: "ͼ"
+        },
+        { Code: "%CD%BC", Char: "ͽ"
+        },
+        { Code: "%CD%BD", Char: ";"
+        },
+        { Code: "%CD%Be", Char: "Ϳ"
+        },
+        { Code: "%CE%80", Char: "΁"
+        },
+        { Code: "%CE%81", Char: "΂"
+        },
+        { Code: "%CE%82", Char: "΃"
+        },
+        { Code: "%CE%83", Char: "΄"
+        },
+        { Code: "%CE%84", Char: "΅"
+        },
+        { Code: "%CE%85", Char: "Ά"
+        },
+        { Code: "%CE%86", Char: "·"
+        },
+        { Code: "%CE%87", Char: "Έ"
+        },
+        { Code: "%CE%88", Char: "Ή"
+        },
+        { Code: "%CE%89", Char: "Ί"
+        },
+        { Code: "%CE%8A", Char: "΋"
+        },
+        { Code: "%CE%8B", Char: "Ό"
+        },
+        { Code: "%CE%8C", Char: "΍"
+        },
+        { Code: "%CE%8D", Char: "Ύ"
+        },
+        { Code: "%CE%8e", Char: "Ώ"
+        },
+        { Code: "%CE%90", Char: "Α"
+        },
+        { Code: "%CE%91", Char: "Β"
+        },
+        { Code: "%CE%92", Char: "Γ"
+        },
+        { Code: "%CE%93", Char: "Δ"
+        },
+        { Code: "%CE%94", Char: "Ε"
+        },
+        { Code: "%CE%95", Char: "Ζ"
+        },
+        { Code: "%CE%96", Char: "Η"
+        },
+        { Code: "%CE%97", Char: "Θ"
+        },
+        { Code: "%CE%98", Char: "Ι"
+        },
+        { Code: "%CE%99", Char: "Κ"
+        },
+        { Code: "%CE%9A", Char: "Λ"
+        },
+        { Code: "%CE%9B", Char: "Μ"
+        },
+        { Code: "%CE%9C", Char: "Ν"
+        },
+        { Code: "%CE%9D", Char: "Ξ"
+        },
+        { Code: "%CE%9e", Char: "Ο"
+        },
+        { Code: "%CE%A0", Char: "Ρ"
+        },
+        { Code: "%CE%A1", Char: "΢"
+        },
+        { Code: "%CE%A2", Char: "Σ"
+        },
+        { Code: "%CE%A3", Char: "Τ"
+        },
+        { Code: "%CE%A4", Char: "Υ"
+        },
+        { Code: "%CE%A5", Char: "Φ"
+        },
+        { Code: "%CE%A6", Char: "Χ"
+        },
+        { Code: "%CE%A7", Char: "Ψ"
+        },
+        { Code: "%CE%A8", Char: "Ω"
+        },
+        { Code: "%CE%A9", Char: "Ϊ"
+        },
+        { Code: "%CE%AA", Char: "Ϋ"
+        },
+        { Code: "%CE%AB", Char: "ά"
+        },
+        { Code: "%CE%AC", Char: "έ"
+        },
+        { Code: "%CE%AD", Char: "ή"
+        },
+        { Code: "%CE%Ae", Char: "ί"
+        },
+        { Code: "%CE%B0", Char: "α"
+        },
+        { Code: "%CE%B1", Char: "β"
+        },
+        { Code: "%CE%B2", Char: "γ"
+        },
+        { Code: "%CE%B3", Char: "δ"
+        },
+        { Code: "%CE%B4", Char: "ε"
+        },
+        { Code: "%CE%B5", Char: "ζ"
+        },
+        { Code: "%CE%B6", Char: "η"
+        },
+        { Code: "%CE%B7", Char: "θ"
+        },
+        { Code: "%CE%B8", Char: "ι"
+        },
+        { Code: "%CE%B9", Char: "κ"
+        },
+        { Code: "%CE%BA", Char: "λ"
+        },
+        { Code: "%CE%BB", Char: "μ"
+        },
+        { Code: "%CE%BC", Char: "ν"
+        },
+        { Code: "%CE%BD", Char: "ξ"
+        },
+        { Code: "%CE%Be", Char: "ο"
+        },
+        { Code: "%CF%80", Char: "ρ"
+        },
+        { Code: "%CF%81", Char: "ς"
+        },
+        { Code: "%CF%82", Char: "σ"
+        },
+        { Code: "%CF%83", Char: "τ"
+        },
+        { Code: "%CF%84", Char: "υ"
+        },
+        { Code: "%CF%85", Char: "φ"
+        },
+        { Code: "%CF%86", Char: "χ"
+        },
+        { Code: "%CF%87", Char: "ψ"
+        },
+        { Code: "%CF%88", Char: "ω"
+        },
+        { Code: "%CF%89", Char: "ϊ"
+        },
+        { Code: "%CF%8A", Char: "ϋ"
+        },
+        { Code: "%CF%8B", Char: "ό"
+        },
+        { Code: "%CF%8C", Char: "ύ"
+        },
+        { Code: "%CF%8D", Char: "ώ"
+        },
+        { Code: "%CF%8e", Char: "Ϗ"
+        },
+        { Code: "%CF%90", Char: "ϑ"
+        },
+        { Code: "%CF%91", Char: "ϒ"
+        },
+        { Code: "%CF%92", Char: "ϓ"
+        },
+        { Code: "%CF%93", Char: "ϔ"
+        },
+        { Code: "%CF%94", Char: "ϕ"
+        },
+        { Code: "%CF%95", Char: "ϖ"
+        },
+        { Code: "%CF%96", Char: "ϗ"
+        },
+        { Code: "%CF%97", Char: "Ϙ"
+        },
+        { Code: "%CF%98", Char: "ϙ"
+        },
+        { Code: "%CF%99", Char: "Ϛ"
+        },
+        { Code: "%CF%9A", Char: "ϛ"
+        },
+        { Code: "%CF%9B", Char: "Ϝ"
+        },
+        { Code: "%CF%9C", Char: "ϝ"
+        },
+        { Code: "%CF%9D", Char: "Ϟ"
+        },
+        { Code: "%CF%9e", Char: "ϟ"
+        },
+        { Code: "%CF%A0", Char: "ϡ"
+        },
+        { Code: "%CF%A1", Char: "Ϣ"
+        },
+        { Code: "%CF%A2", Char: "ϣ"
+        },
+        { Code: "%CF%A3", Char: "Ϥ"
+        },
+        { Code: "%CF%A4", Char: "ϥ"
+        },
+        { Code: "%CF%A5", Char: "Ϧ"
+        },
+        { Code: "%CF%A6", Char: "ϧ"
+        },
+        { Code: "%CF%A7", Char: "Ϩ"
+        },
+        { Code: "%CF%A8", Char: "ϩ"
+        },
+        { Code: "%CF%A9", Char: "Ϫ"
+        },
+        { Code: "%CF%AA", Char: "ϫ"
+        },
+        { Code: "%CF%AB", Char: "Ϭ"
+        },
+        { Code: "%CF%AC", Char: "ϭ"
+        },
+        { Code: "%CF%AD", Char: "Ϯ"
+        },
+        { Code: "%CF%Ae", Char: "ϯ"
+        },
+        { Code: "%CF%B0", Char: "ϱ"
+        },
+        { Code: "%CF%B1", Char: "ϲ"
+        },
+        { Code: "%CF%B2", Char: "ϳ"
+        },
+        { Code: "%CF%B3", Char: "ϴ"
+        },
+        { Code: "%CF%B4", Char: "ϵ"
+        },
+        { Code: "%CF%B5", Char: "϶"
+        },
+        { Code: "%CF%B6", Char: "Ϸ"
+        },
+        { Code: "%CF%B7", Char: "ϸ"
+        },
+        { Code: "%CF%B8", Char: "Ϲ"
+        },
+        { Code: "%CF%B9", Char: "Ϻ"
+        },
+        { Code: "%CF%BA", Char: "ϻ"
+        },
+        { Code: "%CF%BB", Char: "ϼ"
+        },
+        { Code: "%CF%BC", Char: "Ͻ"
+        },
+        { Code: "%CF%BD", Char: "Ͼ"
+        },
+        { Code: "%CF%Be", Char: "Ͽ"
+        },
+        { Code: "%D0%80", Char: "Ё"
+        },
+        { Code: "%D0%81", Char: "Ђ"
+        },
+        { Code: "%D0%82", Char: "Ѓ"
+        },
+        { Code: "%D0%83", Char: "Є"
+        },
+        { Code: "%D0%84", Char: "Ѕ"
+        },
+        { Code: "%D0%85", Char: "І"
+        },
+        { Code: "%D0%86", Char: "Ї"
+        },
+        { Code: "%D0%87", Char: "Ј"
+        },
+        { Code: "%D0%88", Char: "Љ"
+        },
+        { Code: "%D0%89", Char: "Њ"
+        },
+        { Code: "%D0%8A", Char: "Ћ"
+        },
+        { Code: "%D0%8B", Char: "Ќ"
+        },
+        { Code: "%D0%8C", Char: "Ѝ"
+        },
+        { Code: "%D0%8D", Char: "Ў"
+        },
+        { Code: "%D0%8e", Char: "Џ"
+        },
+        { Code: "%D0%90", Char: "Б"
+        },
+        { Code: "%D0%91", Char: "В"
+        },
+        { Code: "%D0%92", Char: "Г"
+        },
+        { Code: "%D0%93", Char: "Д"
+        },
+        { Code: "%D0%94", Char: "Е"
+        },
+        { Code: "%D0%95", Char: "Ж"
+        },
+        { Code: "%D0%96", Char: "З"
+        },
+        { Code: "%D0%97", Char: "И"
+        },
+        { Code: "%D0%98", Char: "Й"
+        },
+        { Code: "%D0%99", Char: "К"
+        },
+        { Code: "%D0%9A", Char: "Л"
+        },
+        { Code: "%D0%9B", Char: "М"
+        },
+        { Code: "%D0%9C", Char: "Н"
+        },
+        { Code: "%D0%9D", Char: "О"
+        },
+        { Code: "%D0%9e", Char: "П"
+        },
+        { Code: "%D0%A0", Char: "С"
+        },
+        { Code: "%D0%A1", Char: "Т"
+        },
+        { Code: "%D0%A2", Char: "У"
+        },
+        { Code: "%D0%A3", Char: "Ф"
+        },
+        { Code: "%D0%A4", Char: "Х"
+        },
+        { Code: "%D0%A5", Char: "Ц"
+        },
+        { Code: "%D0%A6", Char: "Ч"
+        },
+        { Code: "%D0%A7", Char: "Ш"
+        },
+        { Code: "%D0%A8", Char: "Щ"
+        },
+        { Code: "%D0%A9", Char: "Ъ"
+        },
+        { Code: "%D0%AA", Char: "Ы"
+        },
+        { Code: "%D0%AB", Char: "Ь"
+        },
+        { Code: "%D0%AC", Char: "Э"
+        },
+        { Code: "%D0%AD", Char: "Ю"
+        },
+        { Code: "%D0%Ae", Char: "Я"
+        },
+        { Code: "%D0%B0", Char: "б"
+        },
+        { Code: "%D0%B1", Char: "в"
+        },
+        { Code: "%D0%B2", Char: "г"
+        },
+        { Code: "%D0%B3", Char: "д"
+        },
+        { Code: "%D0%B4", Char: "е"
+        },
+        { Code: "%D0%B5", Char: "ж"
+        },
+        { Code: "%D0%B6", Char: "з"
+        },
+        { Code: "%D0%B7", Char: "и"
+        },
+        { Code: "%D0%B8", Char: "й"
+        },
+        { Code: "%D0%B9", Char: "к"
+        },
+        { Code: "%D0%BA", Char: "л"
+        },
+        { Code: "%D0%BB", Char: "м"
+        },
+        { Code: "%D0%BC", Char: "н"
+        },
+        { Code: "%D0%BD", Char: "о"
+        },
+        { Code: "%D0%Be", Char: "п"
+        },
+        { Code: "%D1%80", Char: "с"
+        },
+        { Code: "%D1%81", Char: "т"
+        },
+        { Code: "%D1%82", Char: "у"
+        },
+        { Code: "%D1%83", Char: "ф"
+        },
+        { Code: "%D1%84", Char: "х"
+        },
+        { Code: "%D1%85", Char: "ц"
+        },
+        { Code: "%D1%86", Char: "ч"
+        },
+        { Code: "%D1%87", Char: "ш"
+        },
+        { Code: "%D1%88", Char: "щ"
+        },
+        { Code: "%D1%89", Char: "ъ"
+        },
+        { Code: "%D1%8A", Char: "ы"
+        },
+        { Code: "%D1%8B", Char: "ь"
+        },
+        { Code: "%D1%8C", Char: "э"
+        },
+        { Code: "%D1%8D", Char: "ю"
+        },
+        { Code: "%D1%8e", Char: "я"
+        },
+        { Code: "%D1%90", Char: "ё"
+        },
+        { Code: "%D1%91", Char: "ђ"
+        },
+        { Code: "%D1%92", Char: "ѓ"
+        },
+        { Code: "%D1%93", Char: "є"
+        },
+        { Code: "%D1%94", Char: "ѕ"
+        },
+        { Code: "%D1%95", Char: "і"
+        },
+        { Code: "%D1%96", Char: "ї"
+        },
+        { Code: "%D1%97", Char: "ј"
+        },
+        { Code: "%D1%98", Char: "љ"
+        },
+        { Code: "%D1%99", Char: "њ"
+        },
+        { Code: "%D1%9A", Char: "ћ"
+        },
+        { Code: "%D1%9B", Char: "ќ"
+        },
+        { Code: "%D1%9C", Char: "ѝ"
+        },
+        { Code: "%D1%9D", Char: "ў"
+        },
+        { Code: "%D1%9e", Char: "џ"
+        },
+        { Code: "%D1%A0", Char: "ѡ"
+        },
+        { Code: "%D1%A1", Char: "Ѣ"
+        },
+        { Code: "%D1%A2", Char: "ѣ"
+        },
+        { Code: "%D1%A3", Char: "Ѥ"
+        },
+        { Code: "%D1%A4", Char: "ѥ"
+        },
+        { Code: "%D1%A5", Char: "Ѧ"
+        },
+        { Code: "%D1%A6", Char: "ѧ"
+        },
+        { Code: "%D1%A7", Char: "Ѩ"
+        },
+        { Code: "%D1%A8", Char: "ѩ"
+        },
+        { Code: "%D1%A9", Char: "Ѫ"
+        },
+        { Code: "%D1%AA", Char: "ѫ"
+        },
+        { Code: "%D1%AB", Char: "Ѭ"
+        },
+        { Code: "%D1%AC", Char: "ѭ"
+        },
+        { Code: "%D1%AD", Char: "Ѯ"
+        },
+        { Code: "%D1%Ae", Char: "ѯ"
+        },
+        { Code: "%D1%B0", Char: "ѱ"
+        },
+        { Code: "%D1%B1", Char: "Ѳ"
+        },
+        { Code: "%D1%B2", Char: "ѳ"
+        },
+        { Code: "%D1%B3", Char: "Ѵ"
+        },
+        { Code: "%D1%B4", Char: "ѵ"
+        },
+        { Code: "%D1%B5", Char: "Ѷ"
+        },
+        { Code: "%D1%B6", Char: "ѷ"
+        },
+        { Code: "%D1%B7", Char: "Ѹ"
+        },
+        { Code: "%D1%B8", Char: "ѹ"
+        },
+        { Code: "%D1%B9", Char: "Ѻ"
+        },
+        { Code: "%D1%BA", Char: "ѻ"
+        },
+        { Code: "%D1%BB", Char: "Ѽ"
+        },
+        { Code: "%D1%BC", Char: "ѽ"
+        },
+        { Code: "%D1%BD", Char: "Ѿ"
+        },
+        { Code: "%D1%Be", Char: "ѿ"
+        },
+        { Code: "%D2%80", Char: "ҁ"
+        },
+        { Code: "%D2%81", Char: "҂"
+        },
+        { Code: "%D2%82", Char: "҃"
+        },
+        { Code: "%D2%83", Char: "҄"
+        },
+        { Code: "%D2%84", Char: "҅"
+        },
+        { Code: "%D2%85", Char: "҆"
+        },
+        { Code: "%D2%86", Char: "҇"
+        },
+        { Code: "%D2%87", Char: "҈"
+        },
+        { Code: "%D2%88", Char: "҉"
+        },
+        { Code: "%D2%89", Char: "Ҋ"
+        },
+        { Code: "%D2%8A", Char: "ҋ"
+        },
+        { Code: "%D2%8B", Char: "Ҍ"
+        },
+        { Code: "%D2%8C", Char: "ҍ"
+        },
+        { Code: "%D2%8D", Char: "Ҏ"
+        },
+        { Code: "%D2%8e", Char: "ҏ"
+        },
+        { Code: "%D2%90", Char: "ґ"
+        },
+        { Code: "%D2%91", Char: "Ғ"
+        },
+        { Code: "%D2%92", Char: "ғ"
+        },
+        { Code: "%D2%93", Char: "Ҕ"
+        },
+        { Code: "%D2%94", Char: "ҕ"
+        },
+        { Code: "%D2%95", Char: "Җ"
+        },
+        { Code: "%D2%96", Char: "җ"
+        },
+        { Code: "%D2%97", Char: "Ҙ"
+        },
+        { Code: "%D2%98", Char: "ҙ"
+        },
+        { Code: "%D2%99", Char: "Қ"
+        },
+        { Code: "%D2%9A", Char: "қ"
+        },
+        { Code: "%D2%9B", Char: "Ҝ"
+        },
+        { Code: "%D2%9C", Char: "ҝ"
+        },
+        { Code: "%D2%9D", Char: "Ҟ"
+        },
+        { Code: "%D2%9e", Char: "ҟ"
+        },
+        { Code: "%D2%A0", Char: "ҡ"
+        },
+        { Code: "%D2%A1", Char: "Ң"
+        },
+        { Code: "%D2%A2", Char: "ң"
+        },
+        { Code: "%D2%A3", Char: "Ҥ"
+        },
+        { Code: "%D2%A4", Char: "ҥ"
+        },
+        { Code: "%D2%A5", Char: "Ҧ"
+        },
+        { Code: "%D2%A6", Char: "ҧ"
+        },
+        { Code: "%D2%A7", Char: "Ҩ"
+        },
+        { Code: "%D2%A8", Char: "ҩ"
+        },
+        { Code: "%D2%A9", Char: "Ҫ"
+        },
+        { Code: "%D2%AA", Char: "ҫ"
+        },
+        { Code: "%D2%AB", Char: "Ҭ"
+        },
+        { Code: "%D2%AC", Char: "ҭ"
+        },
+        { Code: "%D2%AD", Char: "Ү"
+        },
+        { Code: "%D2%Ae", Char: "ү"
+        },
+        { Code: "%D2%B0", Char: "ұ"
+        },
+        { Code: "%D2%B1", Char: "Ҳ"
+        },
+        { Code: "%D2%B2", Char: "ҳ"
+        },
+        { Code: "%D2%B3", Char: "Ҵ"
+        },
+        { Code: "%D2%B4", Char: "ҵ"
+        },
+        { Code: "%D2%B5", Char: "Ҷ"
+        },
+        { Code: "%D2%B6", Char: "ҷ"
+        },
+        { Code: "%D2%B7", Char: "Ҹ"
+        },
+        { Code: "%D2%B8", Char: "ҹ"
+        },
+        { Code: "%D2%B9", Char: "Һ"
+        },
+        { Code: "%D2%BA", Char: "һ"
+        },
+        { Code: "%D2%BB", Char: "Ҽ"
+        },
+        { Code: "%D2%BC", Char: "ҽ"
+        },
+        { Code: "%D2%BD", Char: "Ҿ"
+        },
+        { Code: "%D2%Be", Char: "ҿ"
+        },
+        { Code: "%D3%80", Char: "Ӂ"
+        },
+        { Code: "%D3%81", Char: "ӂ"
+        },
+        { Code: "%D3%82", Char: "Ӄ"
+        },
+        { Code: "%D3%83", Char: "ӄ"
+        },
+        { Code: "%D3%84", Char: "Ӆ"
+        },
+        { Code: "%D3%85", Char: "ӆ"
+        },
+        { Code: "%D3%86", Char: "Ӈ"
+        },
+        { Code: "%D3%87", Char: "ӈ"
+        },
+        { Code: "%D3%88", Char: "Ӊ"
+        },
+        { Code: "%D3%89", Char: "ӊ"
+        },
+        { Code: "%D3%8A", Char: "Ӌ"
+        },
+        { Code: "%D3%8B", Char: "ӌ"
+        },
+        { Code: "%D3%8C", Char: "Ӎ"
+        },
+        { Code: "%D3%8D", Char: "ӎ"
+        },
+        { Code: "%D3%8e", Char: "ӏ"
+        },
+        { Code: "%D3%90", Char: "ӑ"
+        },
+        { Code: "%D3%91", Char: "Ӓ"
+        },
+        { Code: "%D3%92", Char: "ӓ"
+        },
+        { Code: "%D3%93", Char: "Ӕ"
+        },
+        { Code: "%D3%94", Char: "ӕ"
+        },
+        { Code: "%D3%95", Char: "Ӗ"
+        },
+        { Code: "%D3%96", Char: "ӗ"
+        },
+        { Code: "%D3%97", Char: "Ә"
+        },
+        { Code: "%D3%98", Char: "ә"
+        },
+        { Code: "%D3%99", Char: "Ӛ"
+        },
+        { Code: "%D3%9A", Char: "ӛ"
+        },
+        { Code: "%D3%9B", Char: "Ӝ"
+        },
+        { Code: "%D3%9C", Char: "ӝ"
+        },
+        { Code: "%D3%9D", Char: "Ӟ"
+        },
+        { Code: "%D3%9e", Char: "ӟ"
+        },
+        { Code: "%D3%A0", Char: "ӡ"
+        },
+        { Code: "%D3%A1", Char: "Ӣ"
+        },
+        { Code: "%D3%A2", Char: "ӣ"
+        },
+        { Code: "%D3%A3", Char: "Ӥ"
+        },
+        { Code: "%D3%A4", Char: "ӥ"
+        },
+        { Code: "%D3%A5", Char: "Ӧ"
+        },
+        { Code: "%D3%A6", Char: "ӧ"
+        },
+        { Code: "%D3%A7", Char: "Ө"
+        },
+        { Code: "%D3%A8", Char: "ө"
+        },
+        { Code: "%D3%A9", Char: "Ӫ"
+        },
+        { Code: "%D3%AA", Char: "ӫ"
+        },
+        { Code: "%D3%AB", Char: "Ӭ"
+        },
+        { Code: "%D3%AC", Char: "ӭ"
+        },
+        { Code: "%D3%AD", Char: "Ӯ"
+        },
+        { Code: "%D3%Ae", Char: "ӯ"
+        },
+        { Code: "%D3%B0", Char: "ӱ"
+        },
+        { Code: "%D3%B1", Char: "Ӳ"
+        },
+        { Code: "%D3%B2", Char: "ӳ"
+        },
+        { Code: "%D3%B3", Char: "Ӵ"
+        },
+        { Code: "%D3%B4", Char: "ӵ"
+        },
+        { Code: "%D3%B5", Char: "Ӷ"
+        },
+        { Code: "%D3%B6", Char: "ӷ"
+        },
+        { Code: "%D3%B7", Char: "Ӹ"
+        },
+        { Code: "%D3%B8", Char: "ӹ"
+        },
+        { Code: "%D3%B9", Char: "Ӻ"
+        },
+        { Code: "%D3%BA", Char: "ӻ"
+        },
+        { Code: "%D3%BB", Char: "Ӽ"
+        },
+        { Code: "%D3%BC", Char: "ӽ"
+        },
+        { Code: "%D3%BD", Char: "Ӿ"
+        },
+        { Code: "%D3%Be", Char: "ӿ"
+        },
+        { Code: "%D4%80", Char: "ԁ"
+        },
+        { Code: "%D4%81", Char: "Ԃ"
+        },
+        { Code: "%D4%82", Char: "ԃ"
+        },
+        { Code: "%D4%83", Char: "Ԅ"
+        },
+        { Code: "%D4%84", Char: "ԅ"
+        },
+        { Code: "%D4%85", Char: "Ԇ"
+        },
+        { Code: "%D4%86", Char: "ԇ"
+        },
+        { Code: "%D4%87", Char: "Ԉ"
+        },
+        { Code: "%D4%88", Char: "ԉ"
+        },
+        { Code: "%D4%89", Char: "Ԋ"
+        },
+        { Code: "%D4%8A", Char: "ԋ"
+        },
+        { Code: "%D4%8B", Char: "Ԍ"
+        },
+        { Code: "%D4%8C", Char: "ԍ"
+        },
+        { Code: "%D4%8D", Char: "Ԏ"
+        },
+        { Code: "%D4%8e", Char: "ԏ"
+        },
+        { Code: "%D4%90", Char: "ԑ"
+        },
+        { Code: "%D4%91", Char: "Ԓ"
+        },
+        { Code: "%D4%92", Char: "ԓ"
+        },
+        { Code: "%D4%93", Char: "Ԕ"
+        },
+        { Code: "%D4%94", Char: "ԕ"
+        },
+        { Code: "%D4%95", Char: "Ԗ"
+        },
+        { Code: "%D4%96", Char: "ԗ"
+        },
+        { Code: "%D4%97", Char: "Ԙ"
+        },
+        { Code: "%D4%98", Char: "ԙ"
+        },
+        { Code: "%D4%99", Char: "Ԛ"
+        },
+        { Code: "%D4%9A", Char: "ԛ"
+        },
+        { Code: "%D4%9B", Char: "Ԝ"
+        },
+        { Code: "%D4%9C", Char: "ԝ"
+        },
+        { Code: "%D4%9D", Char: "Ԟ"
+        },
+        { Code: "%D4%9e", Char: "ԟ"
+        },
+        { Code: "%D4%A0", Char: "ԡ"
+        },
+        { Code: "%D4%A1", Char: "Ԣ"
+        },
+        { Code: "%D4%A2", Char: "ԣ"
+        },
+        { Code: "%D4%A3", Char: "Ԥ"
+        },
+        { Code: "%D4%A4", Char: "ԥ"
+        },
+        { Code: "%D4%A5", Char: "Ԧ"
+        },
+        { Code: "%D4%A6", Char: "ԧ"
+        },
+        { Code: "%D4%A7", Char: "Ԩ"
+        },
+        { Code: "%D4%A8", Char: "ԩ"
+        },
+        { Code: "%D4%A9", Char: "Ԫ"
+        },
+        { Code: "%D4%AA", Char: "ԫ"
+        },
+        { Code: "%D4%AB", Char: "Ԭ"
+        },
+        { Code: "%D4%AC", Char: "ԭ"
+        },
+        { Code: "%D4%AD", Char: "Ԯ"
+        },
+        { Code: "%D4%Ae", Char: "ԯ"
+        },
+        { Code: "%D4%B0", Char: "Ա"
+        },
+        { Code: "%D4%B1", Char: "Բ"
+        },
+        { Code: "%D4%B2", Char: "Գ"
+        },
+        { Code: "%D4%B3", Char: "Դ"
+        },
+        { Code: "%D4%B4", Char: "Ե"
+        },
+        { Code: "%D4%B5", Char: "Զ"
+        },
+        { Code: "%D4%B6", Char: "Է"
+        },
+        { Code: "%D4%B7", Char: "Ը"
+        },
+        { Code: "%D4%B8", Char: "Թ"
+        },
+        { Code: "%D4%B9", Char: "Ժ"
+        },
+        { Code: "%D4%BA", Char: "Ի"
+        },
+        { Code: "%D4%BB", Char: "Լ"
+        },
+        { Code: "%D4%BC", Char: "Խ"
+        },
+        { Code: "%D4%BD", Char: "Ծ"
+        },
+        { Code: "%D4%Be", Char: "Կ"
+        },
+        { Code: "%D5%80", Char: "Ձ"
+        },
+        { Code: "%D5%81", Char: "Ղ"
+        },
+        { Code: "%D5%82", Char: "Ճ"
+        },
+        { Code: "%D5%83", Char: "Մ"
+        },
+        { Code: "%D5%84", Char: "Յ"
+        },
+        { Code: "%D5%85", Char: "Ն"
+        },
+        { Code: "%D5%86", Char: "Շ"
+        },
+        { Code: "%D5%87", Char: "Ո"
+        },
+        { Code: "%D5%88", Char: "Չ"
+        },
+        { Code: "%D5%89", Char: "Պ"
+        },
+        { Code: "%D5%8A", Char: "Ջ"
+        },
+        { Code: "%D5%8B", Char: "Ռ"
+        },
+        { Code: "%D5%8C", Char: "Ս"
+        },
+        { Code: "%D5%8D", Char: "Վ"
+        },
+        { Code: "%D5%8E", Char: "Տ"
+        },
+        { Code: "%D5%90", Char: "Ց"
+        },
+        { Code: "%D5%91", Char: "Ւ"
+        },
+        { Code: "%D5%92", Char: "Փ"
+        },
+        { Code: "%D5%93", Char: "Ք"
+        },
+        { Code: "%D5%94", Char: "Օ"
+        },
+        { Code: "%D5%95", Char: "Ֆ"
+        },
+        { Code: "%D5%96", Char: "՗"
+        },
+        { Code: "%D5%97", Char: "՘"
+        },
+        { Code: "%D5%98", Char: "ՙ"
+        },
+        { Code: "%D5%99", Char: "՚"
+        },
+        { Code: "%D5%9A", Char: "՛"
+        },
+        { Code: "%D5%9B", Char: "՜"
+        },
+        { Code: "%D5%9C", Char: "՝"
+        },
+        { Code: "%D5%9D", Char: "՞"
+        },
+        { Code: "%D5%9E", Char: "՟"
+        },
+        { Code: "%D5%A0", Char: "ա"
+        },
+        { Code: "%D5%A1", Char: "բ"
+        },
+        { Code: "%D5%A2", Char: "գ"
+        },
+        { Code: "%D5%A3", Char: "դ"
+        },
+        { Code: "%D5%A4", Char: "ե"
+        },
+        { Code: "%D5%A5", Char: "զ"
+        },
+        { Code: "%D5%A6", Char: "է"
+        },
+        { Code: "%D5%A7", Char: "ը"
+        },
+        { Code: "%D5%A8", Char: "թ"
+        },
+        { Code: "%D5%A9", Char: "ժ"
+        },
+        { Code: "%D5%AA", Char: "ի"
+        },
+        { Code: "%D5%AB", Char: "լ"
+        },
+        { Code: "%D5%AC", Char: "խ"
+        },
+        { Code: "%D5%AD", Char: "ծ"
+        },
+        { Code: "%D5%AE", Char: "կ"
+        },
+        { Code: "%D5%B0", Char: "ձ"
+        },
+        { Code: "%D5%B1", Char: "ղ"
+        },
+        { Code: "%D5%B2", Char: "ճ"
+        },
+        { Code: "%D5%B3", Char: "մ"
+        },
+        { Code: "%D5%B4", Char: "յ"
+        },
+        { Code: "%D5%B5", Char: "ն"
+        },
+        { Code: "%D5%B6", Char: "շ"
+        },
+        { Code: "%D5%B7", Char: "ո"
+        },
+        { Code: "%D5%B8", Char: "չ"
+        },
+        { Code: "%D5%B9", Char: "պ"
+        },
+        { Code: "%D5%BA", Char: "ջ"
+        },
+        { Code: "%D5%BB", Char: "ռ"
+        },
+        { Code: "%D5%BC", Char: "ս"
+        },
+        { Code: "%D5%BD", Char: "վ"
+        },
+        { Code: "%D5%BE", Char: "տ"
+        },
+        { Code: "%D6%80", Char: "ց"
+        },
+        { Code: "%D6%81", Char: "ւ"
+        },
+        { Code: "%D6%82", Char: "փ"
+        },
+        { Code: "%D6%83", Char: "ք"
+        },
+        { Code: "%D6%84", Char: "օ"
+        },
+        { Code: "%D6%85", Char: "ֆ"
+        },
+        { Code: "%D6%86", Char: "և"
+        },
+        { Code: "%D6%87", Char: "ֈ"
+        },
+        { Code: "%D6%88", Char: "։"
+        },
+        { Code: "%D6%89", Char: "֊"
+        },
+        { Code: "%D6%8A", Char: "֋"
+        },
+        { Code: "%D6%8B", Char: "֌"
+        },
+        { Code: "%D6%8C", Char: "֍"
+        },
+        { Code: "%D6%8D", Char: "֎"
+        },
+        { Code: "%D6%8E", Char: "֏"
+        },
+        { Code: "%D6%90", Char: "֑"
+        },
+        { Code: "%D6%91", Char: "֒"
+        },
+        { Code: "%D6%92", Char: "֓"
+        },
+        { Code: "%D6%93", Char: "֔"
+        },
+        { Code: "%D6%94", Char: "֕"
+        },
+        { Code: "%D6%95", Char: "֖"
+        },
+        { Code: "%D6%96", Char: "֗"
+        },
+        { Code: "%D6%97", Char: "֘"
+        },
+        { Code: "%D6%98", Char: "֙"
+        },
+        { Code: "%D6%99", Char: "֚"
+        },
+        { Code: "%D6%9A", Char: "֛"
+        },
+        { Code: "%D6%9B", Char: "֜"
+        },
+        { Code: "%D6%9C", Char: "֝"
+        },
+        { Code: "%D6%9D", Char: "֞"
+        },
+        { Code: "%D6%9E", Char: "֟"
+        },
+        { Code: "%D6%A0", Char: "֡"
+        },
+        { Code: "%D6%A1", Char: "֢"
+        },
+        { Code: "%D6%A2", Char: "֣"
+        },
+        { Code: "%D6%A3", Char: "֤"
+        },
+        { Code: "%D6%A4", Char: "֥"
+        },
+        { Code: "%D6%A5", Char: "֦"
+        },
+        { Code: "%D6%A6", Char: "֧"
+        },
+        { Code: "%D6%A7", Char: "֨"
+        },
+        { Code: "%D6%A8", Char: "֩"
+        },
+        { Code: "%D6%A9", Char: "֪"
+        },
+        { Code: "%D6%AA", Char: "֫"
+        },
+        { Code: "%D6%AB", Char: "֬"
+        },
+        { Code: "%D6%AC", Char: "֭"
+        },
+        { Code: "%D6%AD", Char: "֮"
+        },
+        { Code: "%D6%AE", Char: "֯"
+        },
+        { Code: "%D6%B0", Char: "ֱ"
+        },
+        { Code: "%D6%B1", Char: "ֲ"
+        },
+        { Code: "%D6%B2", Char: "ֳ"
+        },
+        { Code: "%D6%B3", Char: "ִ"
+        },
+        { Code: "%D6%B4", Char: "ֵ"
+        },
+        { Code: "%D6%B5", Char: "ֶ"
+        },
+        { Code: "%D6%B6", Char: "ַ"
+        },
+        { Code: "%D6%B7", Char: "ָ"
+        },
+        { Code: "%D6%B8", Char: "ֹ"
+        },
+        { Code: "%D6%B9", Char: "ֺ"
+        },
+        { Code: "%D6%BA", Char: "ֻ"
+        },
+        { Code: "%D6%BB", Char: "ּ"
+        },
+        { Code: "%D6%BC", Char: "ֽ"
+        },
+        { Code: "%D6%BD", Char: "־"
+        },
+        { Code: "%D6%BE", Char: "ֿ"
+        },
+        { Code: "%D7%80", Char: "ׁ"
+        },
+        { Code: "%D7%81", Char: "ׂ"
+        },
+        { Code: "%D7%82", Char: "׃"
+        },
+        { Code: "%D7%83", Char: "ׄ"
+        },
+        { Code: "%D7%84", Char: "ׅ"
+        },
+        { Code: "%D7%85", Char: "׆"
+        },
+        { Code: "%D7%86", Char: "ׇ"
+        },
+        { Code: "%D7%87", Char: "׈"
+        },
+        { Code: "%D7%88", Char: "׉"
+        },
+        { Code: "%D7%89", Char: "׊"
+        },
+        { Code: "%D7%8A", Char: "׋"
+        },
+        { Code: "%D7%8B", Char: "׌"
+        },
+        { Code: "%D7%8C", Char: "׍"
+        },
+        { Code: "%D7%8D", Char: "׎"
+        },
+        { Code: "%D7%8E", Char: "׏"
+        },
+        { Code: "%D7%90", Char: "ב"
+        },
+        { Code: "%D7%91", Char: "ג"
+        },
+        { Code: "%D7%92", Char: "ד"
+        },
+        { Code: "%D7%93", Char: "ה"
+        },
+        { Code: "%D7%94", Char: "ו"
+        },
+        { Code: "%D7%95", Char: "ז"
+        },
+        { Code: "%D7%96", Char: "ח"
+        },
+        { Code: "%D7%97", Char: "ט"
+        },
+        { Code: "%D7%98", Char: "י"
+        },
+        { Code: "%D7%99", Char: "ך"
+        },
+        { Code: "%D7%9A", Char: "כ"
+        },
+        { Code: "%D7%9B", Char: "ל"
+        },
+        { Code: "%D7%9C", Char: "ם"
+        },
+        { Code: "%D7%9D", Char: "מ"
+        },
+        { Code: "%D7%9E", Char: "ן"
+        },
+        { Code: "%D7%A0", Char: "ס"
+        },
+        { Code: "%D7%A1", Char: "ע"
+        },
+        { Code: "%D7%A2", Char: "ף"
+        },
+        { Code: "%D7%A3", Char: "פ"
+        },
+        { Code: "%D7%A4", Char: "ץ"
+        },
+        { Code: "%D7%A5", Char: "צ"
+        },
+        { Code: "%D7%A6", Char: "ק"
+        },
+        { Code: "%D7%A7", Char: "ר"
+        },
+        { Code: "%D7%A8", Char: "ש"
+        },
+        { Code: "%D7%A9", Char: "ת"
+        },
+        { Code: "%D7%AA", Char: "׫"
+        },
+        { Code: "%D7%AB", Char: "׬"
+        },
+        { Code: "%D7%AC", Char: "׭"
+        },
+        { Code: "%D7%AD", Char: "׮"
+        },
+        { Code: "%D7%AE", Char: "ׯ"
+        },
+        { Code: "%D7%B0", Char: "ױ"
+        },
+        { Code: "%D7%B1", Char: "ײ"
+        },
+        { Code: "%D7%B2", Char: "׳"
+        },
+        { Code: "%D7%B3", Char: "״"
+        },
+        { Code: "%D7%B4", Char: "׵"
+        },
+        { Code: "%D7%B5", Char: "׶"
+        },
+        { Code: "%D7%B6", Char: "׷"
+        },
+        { Code: "%D7%B7", Char: "׸"
+        },
+        { Code: "%D7%B8", Char: "׹"
+        },
+        { Code: "%D7%B9", Char: "׺"
+        },
+        { Code: "%D7%BA", Char: "׻"
+        },
+        { Code: "%D7%BB", Char: "׼"
+        },
+        { Code: "%D7%BC", Char: "׽"
+        },
+        { Code: "%D7%BD", Char: "׾"
+        },
+        { Code: "%D7%BE", Char: "׿"
+        },
+        { Code: "%D8%80", Char: "؁"
+        },
+        { Code: "%D8%81", Char: "؂"
+        },
+        { Code: "%D8%82", Char: "؃"
+        },
+        { Code: "%D8%83", Char: "؄"
+        },
+        { Code: "%D8%84", Char: "؅"
+        },
+        { Code: "%D8%85", Char: "؆"
+        },
+        { Code: "%D8%86", Char: "؇"
+        },
+        { Code: "%D8%87", Char: "؈"
+        },
+        { Code: "%D8%88", Char: "؉"
+        },
+        { Code: "%D8%89", Char: "؊"
+        },
+        { Code: "%D8%8A", Char: "؋"
+        },
+        { Code: "%D8%8B", Char: "،"
+        },
+        { Code: "%D8%8C", Char: "؍"
+        },
+        { Code: "%D8%8D", Char: "؎"
+        },
+        { Code: "%D8%8E", Char: "؏"
+        },
+        { Code: "%D8%90", Char: "ؑ"
+        },
+        { Code: "%D8%91", Char: "ؒ"
+        },
+        { Code: "%D8%92", Char: "ؓ"
+        },
+        { Code: "%D8%93", Char: "ؔ"
+        },
+        { Code: "%D8%94", Char: "ؕ"
+        },
+        { Code: "%D8%95", Char: "ؖ"
+        },
+        { Code: "%D8%96", Char: "ؗ"
+        },
+        { Code: "%D8%97", Char: "ؘ"
+        },
+        { Code: "%D8%98", Char: "ؙ"
+        },
+        { Code: "%D8%99", Char: "ؚ"
+        },
+        { Code: "%D8%9A", Char: "؛"
+        },
+        { Code: "%D8%9C", Char: "؝"
+        },
+        { Code: "%D8%9D", Char: "؞"
+        },
+        { Code: "%D8%9E", Char: "؟"
+        },
+        { Code: "%D8%A0", Char: "ء"
+        },
+        { Code: "%D8%A1", Char: "آ"
+        },
+        { Code: "%D8%A2", Char: "أ"
+        },
+        { Code: "%D8%A3", Char: "ؤ"
+        },
+        { Code: "%D8%A4", Char: "إ"
+        },
+        { Code: "%D8%A5", Char: "ئ"
+        },
+        { Code: "%D8%A6", Char: "ا"
+        },
+        { Code: "%D8%A7", Char: "ب"
+        },
+        { Code: "%D8%A8", Char: "ة"
+        },
+        { Code: "%D8%A9", Char: "ت"
+        },
+        { Code: "%D8%AA", Char: "ث"
+        },
+        { Code: "%D8%AB", Char: "ج"
+        },
+        { Code: "%D8%AC", Char: "ح"
+        },
+        { Code: "%D8%AD", Char: "خ"
+        },
+        { Code: "%D8%AE", Char: "د"
+        },
+        { Code: "%D8%B0", Char: "ر"
+        },
+        { Code: "%D8%B1", Char: "ز"
+        },
+        { Code: "%D8%B2", Char: "س"
+        },
+        { Code: "%D8%B3", Char: "ش"
+        },
+        { Code: "%D8%B4", Char: "ص"
+        },
+        { Code: "%D8%B5", Char: "ض"
+        },
+        { Code: "%D8%B6", Char: "ط"
+        },
+        { Code: "%D8%B7", Char: "ظ"
+        },
+        { Code: "%D8%B8", Char: "ع"
+        },
+        { Code: "%D8%B9", Char: "غ"
+        },
+        { Code: "%D8%BA", Char: "ػ"
+        },
+        { Code: "%D8%BB", Char: "ؼ"
+        },
+        { Code: "%D8%BC", Char: "ؽ"
+        },
+        { Code: "%D8%BD", Char: "ؾ"
+        },
+        { Code: "%D8%BE", Char: "ؿ"
+        },
+        { Code: "%D9%80", Char: "ف"
+        },
+        { Code: "%D9%81", Char: "ق"
+        },
+        { Code: "%D9%82", Char: "ك"
+        },
+        { Code: "%D9%83", Char: "ل"
+        },
+        { Code: "%D9%84", Char: "م"
+        },
+        { Code: "%D9%85", Char: "ن"
+        },
+        { Code: "%D9%86", Char: "ه"
+        },
+        { Code: "%D9%87", Char: "و"
+        },
+        { Code: "%D9%88", Char: "ى"
+        },
+        { Code: "%D9%89", Char: "ي"
+        },
+        { Code: "%D9%8A", Char: "ً"
+        },
+        { Code: "%D9%8B", Char: "ٌ"
+        },
+        { Code: "%D9%8C", Char: "ٍ"
+        },
+        { Code: "%D9%8D", Char: "َ"
+        },
+        { Code: "%D9%8E", Char: "ُ"
+        },
+        { Code: "%D9%90", Char: "ّ"
+        },
+        { Code: "%D9%91", Char: "ْ"
+        },
+        { Code: "%D9%92", Char: "ٓ"
+        },
+        { Code: "%D9%93", Char: "ٔ"
+        },
+        { Code: "%D9%94", Char: "ٕ"
+        },
+        { Code: "%D9%95", Char: "ٖ"
+        },
+        { Code: "%D9%96", Char: "ٗ"
+        },
+        { Code: "%D9%97", Char: "٘"
+        },
+        { Code: "%D9%98", Char: "ٙ"
+        },
+        { Code: "%D9%99", Char: "ٚ"
+        },
+        { Code: "%D9%9A", Char: "ٛ"
+        },
+        { Code: "%D9%9B", Char: "ٜ"
+        },
+        { Code: "%D9%9C", Char: "ٝ"
+        },
+        { Code: "%D9%9D", Char: "ٞ"
+        },
+        { Code: "%D9%9E", Char: "ٟ"
+        },
+        { Code: "%D9%A0", Char: "١"
+        },
+        { Code: "%D9%A1", Char: "٢"
+        },
+        { Code: "%D9%A2", Char: "٣"
+        },
+        { Code: "%D9%A3", Char: "٤"
+        },
+        { Code: "%D9%A4", Char: "٥"
+        },
+        { Code: "%D9%A5", Char: "٦"
+        },
+        { Code: "%D9%A6", Char: "٧"
+        },
+        { Code: "%D9%A7", Char: "٨"
+        },
+        { Code: "%D9%A8", Char: "٩"
+        },
+        { Code: "%D9%A9", Char: "٪"
+        },
+        { Code: "%D9%AA", Char: "٫"
+        },
+        { Code: "%D9%AB", Char: "٬"
+        },
+        { Code: "%D9%AC", Char: "٭"
+        },
+        { Code: "%D9%AD", Char: "ٮ"
+        },
+        { Code: "%D9%AE", Char: "ٯ"
+        },
+        { Code: "%D9%B0", Char: "ٱ"
+        },
+        { Code: "%D9%B1", Char: "ٲ"
+        },
+        { Code: "%D9%B2", Char: "ٳ"
+        },
+        { Code: "%D9%B3", Char: "ٴ"
+        },
+        { Code: "%D9%B4", Char: "ٵ"
+        },
+        { Code: "%D9%B5", Char: "ٶ"
+        },
+        { Code: "%D9%B6", Char: "ٷ"
+        },
+        { Code: "%D9%B7", Char: "ٸ"
+        },
+        { Code: "%D9%B8", Char: "ٹ"
+        },
+        { Code: "%D9%B9", Char: "ٺ"
+        },
+        { Code: "%D9%BA", Char: "ٻ"
+        },
+        { Code: "%D9%BB", Char: "ټ"
+        },
+        { Code: "%D9%BC", Char: "ٽ"
+        },
+        { Code: "%D9%BD", Char: "پ"
+        },
+        { Code: "%D9%BE", Char: "ٿ"
+        },
+        { Code: "%DA%80", Char: "ځ"
+        },
+        { Code: "%DA%81", Char: "ڂ"
+        },
+        { Code: "%DA%82", Char: "ڃ"
+        },
+        { Code: "%DA%83", Char: "ڄ"
+        },
+        { Code: "%DA%84", Char: "څ"
+        },
+        { Code: "%DA%85", Char: "چ"
+        },
+        { Code: "%DA%86", Char: "ڇ"
+        },
+        { Code: "%DA%87", Char: "ڈ"
+        },
+        { Code: "%DA%88", Char: "ډ"
+        },
+        { Code: "%DA%89", Char: "ڊ"
+        },
+        { Code: "%DA%8A", Char: "ڋ"
+        },
+        { Code: "%DA%8B", Char: "ڌ"
+        },
+        { Code: "%DA%8C", Char: "ڍ"
+        },
+        { Code: "%DA%8D", Char: "ڎ"
+        },
+        { Code: "%DA%8E", Char: "ڏ"
+        },
+        { Code: "%DA%90", Char: "ڑ"
+        },
+        { Code: "%DA%91", Char: "ڒ"
+        },
+        { Code: "%DA%92", Char: "ړ"
+        },
+        { Code: "%DA%93", Char: "ڔ"
+        },
+        { Code: "%DA%94", Char: "ڕ"
+        },
+        { Code: "%DA%95", Char: "ږ"
+        },
+        { Code: "%DA%96", Char: "ڗ"
+        },
+        { Code: "%DA%97", Char: "ژ"
+        },
+        { Code: "%DA%98", Char: "ڙ"
+        },
+        { Code: "%DA%99", Char: "ښ"
+        },
+        { Code: "%DA%9A", Char: "ڛ"
+        },
+        { Code: "%DA%9B", Char: "ڜ"
+        },
+        { Code: "%DA%9C", Char: "ڝ"
+        },
+        { Code: "%DA%9D", Char: "ڞ"
+        },
+        { Code: "%DA%9E", Char: "ڟ"
+        },
+        { Code: "%DA%A0", Char: "ڡ"
+        },
+        { Code: "%DA%A1", Char: "ڢ"
+        },
+        { Code: "%DA%A2", Char: "ڣ"
+        },
+        { Code: "%DA%A3", Char: "ڤ"
+        },
+        { Code: "%DA%A4", Char: "ڥ"
+        },
+        { Code: "%DA%A5", Char: "ڦ"
+        },
+        { Code: "%DA%A6", Char: "ڧ"
+        },
+        { Code: "%DA%A7", Char: "ڨ"
+        },
+        { Code: "%DA%A8", Char: "ک"
+        },
+        { Code: "%DA%A9", Char: "ڪ"
+        },
+        { Code: "%DA%AA", Char: "ګ"
+        },
+        { Code: "%DA%AB", Char: "ڬ"
+        },
+        { Code: "%DA%AC", Char: "ڭ"
+        },
+        { Code: "%DA%AD", Char: "ڮ"
+        },
+        { Code: "%DA%AE", Char: "گ"
+        },
+        { Code: "%DA%B0", Char: "ڱ"
+        },
+        { Code: "%DA%B1", Char: "ڲ"
+        },
+        { Code: "%DA%B2", Char: "ڳ"
+        },
+        { Code: "%DA%B3", Char: "ڴ"
+        },
+        { Code: "%DA%B4", Char: "ڵ"
+        },
+        { Code: "%DA%B5", Char: "ڶ"
+        },
+        { Code: "%DA%B6", Char: "ڷ"
+        },
+        { Code: "%DA%B7", Char: "ڸ"
+        },
+        { Code: "%DA%B8", Char: "ڹ"
+        },
+        { Code: "%DA%B9", Char: "ں"
+        },
+        { Code: "%DA%BA", Char: "ڻ"
+        },
+        { Code: "%DA%BB", Char: "ڼ"
+        },
+        { Code: "%DA%BC", Char: "ڽ"
+        },
+        { Code: "%DA%BD", Char: "ھ"
+        },
+        { Code: "%DA%BE", Char: "ڿ"
+        },
+        { Code: "%DB%80", Char: "ہ"
+        },
+        { Code: "%DB%81", Char: "ۂ"
+        },
+        { Code: "%DB%82", Char: "ۃ"
+        },
+        { Code: "%DB%83", Char: "ۄ"
+        },
+        { Code: "%DB%84", Char: "ۅ"
+        },
+        { Code: "%DB%85", Char: "ۆ"
+        },
+        { Code: "%DB%86", Char: "ۇ"
+        },
+        { Code: "%DB%87", Char: "ۈ"
+        },
+        { Code: "%DB%88", Char: "ۉ"
+        },
+        { Code: "%DB%89", Char: "ۊ"
+        },
+        { Code: "%DB%8A", Char: "ۋ"
+        },
+        { Code: "%DB%8B", Char: "ی"
+        },
+        { Code: "%DB%8C", Char: "ۍ"
+        },
+        { Code: "%DB%8D", Char: "ێ"
+        },
+        { Code: "%DB%8E", Char: "ۏ"
+        },
+        { Code: "%DB%90", Char: "ۑ"
+        },
+        { Code: "%DB%91", Char: "ے"
+        },
+        { Code: "%DB%92", Char: "ۓ"
+        },
+        { Code: "%DB%93", Char: "۔"
+        },
+        { Code: "%DB%94", Char: "ە"
+        },
+        { Code: "%DB%95", Char: "ۖ"
+        },
+        { Code: "%DB%96", Char: "ۗ"
+        },
+        { Code: "%DB%97", Char: "ۘ"
+        },
+        { Code: "%DB%98", Char: "ۙ"
+        },
+        { Code: "%DB%99", Char: "ۚ"
+        },
+        { Code: "%DB%9A", Char: "ۛ"
+        },
+        { Code: "%DB%9B", Char: "ۜ"
+        },
+        { Code: "%DB%9C", Char: "۝"
+        },
+        { Code: "%DB%9D", Char: "۞"
+        },
+        { Code: "%DB%9E", Char: "۟"
+        },
+        { Code: "%DB%A0", Char: "ۡ"
+        },
+        { Code: "%DB%A1", Char: "ۢ"
+        },
+        { Code: "%DB%A2", Char: "ۣ"
+        },
+        { Code: "%DB%A3", Char: "ۤ"
+        },
+        { Code: "%DB%A4", Char: "ۥ"
+        },
+        { Code: "%DB%A5", Char: "ۦ"
+        },
+        { Code: "%DB%A6", Char: "ۧ"
+        },
+        { Code: "%DB%A7", Char: "ۨ"
+        },
+        { Code: "%DB%A8", Char: "۩"
+        },
+        { Code: "%DB%A9", Char: "۪"
+        },
+        { Code: "%DB%AA", Char: "۫"
+        },
+        { Code: "%DB%AB", Char: "۬"
+        },
+        { Code: "%DB%AC", Char: "ۭ"
+        },
+        { Code: "%DB%AD", Char: "ۮ"
+        },
+        { Code: "%DB%AE", Char: "ۯ"
+        },
+        { Code: "%DB%B0", Char: "۱"
+        },
+        { Code: "%DB%B1", Char: "۲"
+        },
+        { Code: "%DB%B2", Char: "۳"
+        },
+        { Code: "%DB%B3", Char: "۴"
+        },
+        { Code: "%DB%B4", Char: "۵"
+        },
+        { Code: "%DB%B5", Char: "۶"
+        },
+        { Code: "%DB%B6", Char: "۷"
+        },
+        { Code: "%DB%B7", Char: "۸"
+        },
+        { Code: "%DB%B8", Char: "۹"
+        },
+        { Code: "%DB%B9", Char: "ۺ"
+        },
+        { Code: "%DB%BA", Char: "ۻ"
+        },
+        { Code: "%DB%BB", Char: "ۼ"
+        },
+        { Code: "%DB%BC", Char: "۽"
+        },
+        { Code: "%DB%BD", Char: "۾"
+        },
+        { Code: "%DB%BE", Char: "ۿ"
+        },
+        { Code: "%DC%80", Char: "܁"
+        },
+        { Code: "%DC%81", Char: "܂"
+        },
+        { Code: "%DC%82", Char: "܃"
+        },
+        { Code: "%DC%83", Char: "܄"
+        },
+        { Code: "%DC%84", Char: "܅"
+        },
+        { Code: "%DC%85", Char: "܆"
+        },
+        { Code: "%DC%86", Char: "܇"
+        },
+        { Code: "%DC%87", Char: "܈"
+        },
+        { Code: "%DC%88", Char: "܉"
+        },
+        { Code: "%DC%89", Char: "܊"
+        },
+        { Code: "%DC%8A", Char: "܋"
+        },
+        { Code: "%DC%8B", Char: "܌"
+        },
+        { Code: "%DC%8C", Char: "܍"
+        },
+        { Code: "%DC%8D", Char: "܎"
+        },
+        { Code: "%DC%90", Char: "ܑ"
+        },
+        { Code: "%DC%91", Char: "ܒ"
+        },
+        { Code: "%DC%92", Char: "ܓ"
+        },
+        { Code: "%DC%93", Char: "ܔ"
+        },
+        { Code: "%DC%94", Char: "ܕ"
+        },
+        { Code: "%DC%95", Char: "ܖ"
+        },
+        { Code: "%DC%96", Char: "ܗ"
+        },
+        { Code: "%DC%97", Char: "ܘ"
+        },
+        { Code: "%DC%98", Char: "ܙ"
+        },
+        { Code: "%DC%99", Char: "ܚ"
+        },
+        { Code: "%DC%9A", Char: "ܛ"
+        },
+        { Code: "%DC%9B", Char: "ܜ"
+        },
+        { Code: "%DC%9C", Char: "ܝ"
+        },
+        { Code: "%DC%9D", Char: "ܞ"
+        },
+        { Code: "%DC%9E", Char: "ܟ"
+        },
+        { Code: "%DC%A0", Char: "ܡ"
+        },
+        { Code: "%DC%A1", Char: "ܢ"
+        },
+        { Code: "%DC%A2", Char: "ܣ"
+        },
+        { Code: "%DC%A3", Char: "ܤ"
+        },
+        { Code: "%DC%A4", Char: "ܥ"
+        },
+        { Code: "%DC%A5", Char: "ܦ"
+        },
+        { Code: "%DC%A6", Char: "ܧ"
+        },
+        { Code: "%DC%A7", Char: "ܨ"
+        },
+        { Code: "%DC%A8", Char: "ܩ"
+        },
+        { Code: "%DC%A9", Char: "ܪ"
+        },
+        { Code: "%DC%AA", Char: "ܫ"
+        },
+        { Code: "%DC%AB", Char: "ܬ"
+        },
+        { Code: "%DC%AC", Char: "ܭ"
+        },
+        { Code: "%DC%AD", Char: "ܮ"
+        },
+        { Code: "%DC%AE", Char: "ܯ"
+        },
+        { Code: "%DC%B0", Char: "ܱ"
+        },
+        { Code: "%DC%B1", Char: "ܲ"
+        },
+        { Code: "%DC%B2", Char: "ܳ"
+        },
+        { Code: "%DC%B3", Char: "ܴ"
+        },
+        { Code: "%DC%B4", Char: "ܵ"
+        },
+        { Code: "%DC%B5", Char: "ܶ"
+        },
+        { Code: "%DC%B6", Char: "ܷ"
+        },
+        { Code: "%DC%B7", Char: "ܸ"
+        },
+        { Code: "%DC%B8", Char: "ܹ"
+        },
+        { Code: "%DC%B9", Char: "ܺ"
+        },
+        { Code: "%DC%BA", Char: "ܻ"
+        },
+        { Code: "%DC%BB", Char: "ܼ"
+        },
+        { Code: "%DC%BC", Char: "ܽ"
+        },
+        { Code: "%DC%BD", Char: "ܾ"
+        },
+        { Code: "%DC%BE", Char: "ܿ"
+        },
+        { Code: "%DD%80", Char: "݁"
+        },
+        { Code: "%DD%81", Char: "݂"
+        },
+        { Code: "%DD%82", Char: "݃"
+        },
+        { Code: "%DD%83", Char: "݄"
+        },
+        { Code: "%DD%84", Char: "݅"
+        },
+        { Code: "%DD%85", Char: "݆"
+        },
+        { Code: "%DD%86", Char: "݇"
+        },
+        { Code: "%DD%87", Char: "݈"
+        },
+        { Code: "%DD%88", Char: "݉"
+        },
+        { Code: "%DD%89", Char: "݊"
+        },
+        { Code: "%DD%8A", Char: "݋"
+        },
+        { Code: "%DD%8B", Char: "݌"
+        },
+        { Code: "%DD%8C", Char: "ݍ"
+        },
+        { Code: "%DD%8D", Char: "ݎ"
+        },
+        { Code: "%DD%8E", Char: "ݏ"
+        },
+        { Code: "%DD%90", Char: "ݑ"
+        },
+        { Code: "%DD%91", Char: "ݒ"
+        },
+        { Code: "%DD%92", Char: "ݓ"
+        },
+        { Code: "%DD%93", Char: "ݔ"
+        },
+        { Code: "%DD%94", Char: "ݕ"
+        },
+        { Code: "%DD%95", Char: "ݖ"
+        },
+        { Code: "%DD%96", Char: "ݗ"
+        },
+        { Code: "%DD%97", Char: "ݘ"
+        },
+        { Code: "%DD%98", Char: "ݙ"
+        },
+        { Code: "%DD%99", Char: "ݚ"
+        },
+        { Code: "%DD%9A", Char: "ݛ"
+        },
+        { Code: "%DD%9B", Char: "ݜ"
+        },
+        { Code: "%DD%9C", Char: "ݝ"
+        },
+        { Code: "%DD%9D", Char: "ݞ"
+        },
+        { Code: "%DD%9E", Char: "ݟ"
+        },
+        { Code: "%DD%A0", Char: "ݡ"
+        },
+        { Code: "%DD%A1", Char: "ݢ"
+        },
+        { Code: "%DD%A2", Char: "ݣ"
+        },
+        { Code: "%DD%A3", Char: "ݤ"
+        },
+        { Code: "%DD%A4", Char: "ݥ"
+        },
+        { Code: "%DD%A5", Char: "ݦ"
+        },
+        { Code: "%DD%A6", Char: "ݧ"
+        },
+        { Code: "%DD%A7", Char: "ݨ"
+        },
+        { Code: "%DD%A8", Char: "ݩ"
+        },
+        { Code: "%DD%A9", Char: "ݪ"
+        },
+        { Code: "%DD%AA", Char: "ݫ"
+        },
+        { Code: "%DD%AB", Char: "ݬ"
+        },
+        { Code: "%DD%AC", Char: "ݭ"
+        },
+        { Code: "%DD%AD", Char: "ݮ"
+        },
+        { Code: "%DD%AE", Char: "ݯ"
+        },
+        { Code: "%DD%B0", Char: "ݱ"
+        },
+        { Code: "%DD%B1", Char: "ݲ"
+        },
+        { Code: "%DD%B2", Char: "ݳ"
+        },
+        { Code: "%DD%B3", Char: "ݴ"
+        },
+        { Code: "%DD%B4", Char: "ݵ"
+        },
+        { Code: "%DD%B5", Char: "ݶ"
+        },
+        { Code: "%DD%B6", Char: "ݷ"
+        },
+        { Code: "%DD%B7", Char: "ݸ"
+        },
+        { Code: "%DD%B8", Char: "ݹ"
+        },
+        { Code: "%DD%B9", Char: "ݺ"
+        },
+        { Code: "%DD%BA", Char: "ݻ"
+        },
+        { Code: "%DD%BB", Char: "ݼ"
+        },
+        { Code: "%DD%BC", Char: "ݽ"
+        },
+        { Code: "%DD%BD", Char: "ݾ"
+        },
+        { Code: "%DD%BE", Char: "ݿ"
+        },
+        { Code: "%DE%80", Char: "ށ"
+        },
+        { Code: "%DE%81", Char: "ނ"
+        },
+        { Code: "%DE%82", Char: "ރ"
+        },
+        { Code: "%DE%83", Char: "ބ"
+        },
+        { Code: "%DE%84", Char: "ޅ"
+        },
+        { Code: "%DE%85", Char: "ކ"
+        },
+        { Code: "%DE%86", Char: "އ"
+        },
+        { Code: "%DE%87", Char: "ވ"
+        },
+        { Code: "%DE%88", Char: "މ"
+        },
+        { Code: "%DE%89", Char: "ފ"
+        },
+        { Code: "%DE%8A", Char: "ދ"
+        },
+        { Code: "%DE%8B", Char: "ތ"
+        },
+        { Code: "%DE%8C", Char: "ލ"
+        },
+        { Code: "%DE%8D", Char: "ގ"
+        },
+        { Code: "%DE%8E", Char: "ޏ"
+        },
+        { Code: "%DE%90", Char: "ޑ"
+        },
+        { Code: "%DE%91", Char: "ޒ"
+        },
+        { Code: "%DE%92", Char: "ޓ"
+        },
+        { Code: "%DE%93", Char: "ޔ"
+        },
+        { Code: "%DE%94", Char: "ޕ"
+        },
+        { Code: "%DE%95", Char: "ޖ"
+        },
+        { Code: "%DE%96", Char: "ޗ"
+        },
+        { Code: "%DE%97", Char: "ޘ"
+        },
+        { Code: "%DE%98", Char: "ޙ"
+        },
+        { Code: "%DE%99", Char: "ޚ"
+        },
+        { Code: "%DE%9A", Char: "ޛ"
+        },
+        { Code: "%DE%9B", Char: "ޜ"
+        },
+        { Code: "%DE%9C", Char: "ޝ"
+        },
+        { Code: "%DE%9D", Char: "ޞ"
+        },
+        { Code: "%DE%9E", Char: "ޟ"
+        },
+        { Code: "%DE%A0", Char: "ޡ"
+        },
+        { Code: "%DE%A1", Char: "ޢ"
+        },
+        { Code: "%DE%A2", Char: "ޣ"
+        },
+        { Code: "%DE%A3", Char: "ޤ"
+        },
+        { Code: "%DE%A4", Char: "ޥ"
+        },
+        { Code: "%DE%A5", Char: "ަ"
+        },
+        { Code: "%DE%A6", Char: "ާ"
+        },
+        { Code: "%DE%A7", Char: "ި"
+        },
+        { Code: "%DE%A8", Char: "ީ"
+        },
+        { Code: "%DE%A9", Char: "ު"
+        },
+        { Code: "%DE%AA", Char: "ޫ"
+        },
+        { Code: "%DE%AB", Char: "ެ"
+        },
+        { Code: "%DE%AC", Char: "ޭ"
+        },
+        { Code: "%DE%AD", Char: "ޮ"
+        },
+        { Code: "%DE%AE", Char: "ޯ"
+        },
+        { Code: "%DE%B0", Char: "ޱ"
+        },
+        { Code: "%DE%B1", Char: "޲"
+        },
+        { Code: "%DE%B2", Char: "޳"
+        },
+        { Code: "%DE%B3", Char: "޴"
+        },
+        { Code: "%DE%B4", Char: "޵"
+        },
+        { Code: "%DE%B5", Char: "޶"
+        },
+        { Code: "%DE%B6", Char: "޷"
+        },
+        { Code: "%DE%B7", Char: "޸"
+        },
+        { Code: "%DE%B8", Char: "޹"
+        },
+        { Code: "%DE%B9", Char: "޺"
+        },
+        { Code: "%DE%BA", Char: "޻"
+        },
+        { Code: "%DE%BB", Char: "޼"
+        },
+        { Code: "%DE%BC", Char: "޽"
+        },
+        { Code: "%DE%BD", Char: "޾"
+        },
+        { Code: "%DE%BE", Char: "޿"
+        },
+        { Code: "%DF%80", Char: "߁"
+        },
+        { Code: "%DF%81", Char: "߂"
+        },
+        { Code: "%DF%82", Char: "߃"
+        },
+        { Code: "%DF%83", Char: "߄"
+        },
+        { Code: "%DF%84", Char: "߅"
+        },
+        { Code: "%DF%85", Char: "߆"
+        },
+        { Code: "%DF%86", Char: "߇"
+        },
+        { Code: "%DF%87", Char: "߈"
+        },
+        { Code: "%DF%88", Char: "߉"
+        },
+        { Code: "%DF%89", Char: "ߊ"
+        },
+        { Code: "%DF%8A", Char: "ߋ"
+        },
+        { Code: "%DF%8B", Char: "ߌ"
+        },
+        { Code: "%DF%8C", Char: "ߍ"
+        },
+        { Code: "%DF%8D", Char: "ߎ"
+        },
+        { Code: "%DF%8E", Char: "ߏ"
+        },
+        { Code: "%DF%90", Char: "ߑ"
+        },
+        { Code: "%DF%91", Char: "ߒ"
+        },
+        { Code: "%DF%92", Char: "ߓ"
+        },
+        { Code: "%DF%93", Char: "ߔ"
+        },
+        { Code: "%DF%94", Char: "ߕ"
+        },
+        { Code: "%DF%95", Char: "ߖ"
+        },
+        { Code: "%DF%96", Char: "ߗ"
+        },
+        { Code: "%DF%97", Char: "ߘ"
+        },
+        { Code: "%DF%98", Char: "ߙ"
+        },
+        { Code: "%DF%99", Char: "ߚ"
+        },
+        { Code: "%DF%9A", Char: "ߛ"
+        },
+        { Code: "%DF%9B", Char: "ߜ"
+        },
+        { Code: "%DF%9C", Char: "ߝ"
+        },
+        { Code: "%DF%9D", Char: "ߞ"
+        },
+        { Code: "%DF%9E", Char: "ߟ"
+        },
+        { Code: "%DF%A0", Char: "ߡ"
+        },
+        { Code: "%DF%A1", Char: "ߢ"
+        },
+        { Code: "%DF%A2", Char: "ߣ"
+        },
+        { Code: "%DF%A3", Char: "ߤ"
+        },
+        { Code: "%DF%A4", Char: "ߥ"
+        },
+        { Code: "%DF%A5", Char: "ߦ"
+        },
+        { Code: "%DF%A6", Char: "ߧ"
+        },
+        { Code: "%DF%A7", Char: "ߨ"
+        },
+        { Code: "%DF%A8", Char: "ߩ"
+        },
+        { Code: "%DF%A9", Char: "ߪ"
+        },
+        { Code: "%DF%AA", Char: "߫"
+        },
+        { Code: "%DF%AB", Char: "߬"
+        },
+        { Code: "%DF%AC", Char: "߭"
+        },
+        { Code: "%DF%AD", Char: "߮"
+        },
+        { Code: "%DF%AE", Char: "߯"
+        },
+        { Code: "%DF%B0", Char: "߱"
+        },
+        { Code: "%DF%B1", Char: "߲"
+        },
+        { Code: "%DF%B2", Char: "߳"
+        },
+        { Code: "%DF%B3", Char: "ߴ"
+        },
+        { Code: "%DF%B4", Char: "ߵ"
+        },
+        { Code: "%DF%B5", Char: "߶"
+        },
+        { Code: "%DF%B6", Char: "߷"
+        },
+        { Code: "%DF%B7", Char: "߸"
+        },
+        { Code: "%DF%B8", Char: "߹"
+        },
+        { Code: "%DF%B9", Char: "ߺ"
+        },
+        { Code: "%DF%BA", Char: "߻"
+        },
+        { Code: "%DF%BB", Char: "߼"
+        },
+        { Code: "%DF%BC", Char: "߽"
+        },
+        { Code: "%DF%BD", Char: "߾"
+        }
+    ]
+}
