@@ -1,3 +1,4 @@
+
 let NewString = "";
 const TextToProcess = document.getElementById("TextToProcess")
 const ProcessedText = document.getElementById("ProcessedText")
@@ -6,6 +7,8 @@ const EncodeButton = document.getElementById("EncodeButton")
 ProcessedText.readOnly = true;
 TextToProcess.setAttribute("Process", "Decode");
 DecodeButton.style.backgroundColor = "lightgreen"
+
+
 
 const ASCII = [
     {
@@ -138,6 +141,8 @@ const ASCII = [
     }
 ]
 
+console.log(ASCII[31].Code.toLocaleUpperCase())
+
 ToDecipher = "Tað skrivar SEV. Sjóvarfalsdrekin byrjaði beinanvegin at framleiða elorku inn á netið, og royndarkoyringin hevur gingið eftir ætlan. Tað er ein fragd at kunna boða frá, at fyrsta vikan við royndarkoyring av Dragon Class 4 hevur gingið væl. Allir staklutir hava virkað eftir ætlan, og elorka er framleidd inn á netið, sigur Martin Edlund, forstjóri í Minesto. Vit fóru undir elframleiðslu fyrsta dagin, so skjótt sum allar neyðugar forkanningar vóru gjørdar á fyrsta sjóvarfallinum. Dragon 4 roynist sera væl, og vit fara nú undir arbeiðið at fínjusterað stýriskipanina, so at sum mest av elframleiðslu fæst burturúr, sigur Bernt Erik Westre, tekniskur stjóri í Minesto."
 
 // Bert er br --> %C3%B3 <-- FIND --> %C3%B0 <--urleyst bak
@@ -152,17 +157,19 @@ function DecodeFo(ToDecipher) {
         if (ToDecipher[i] == "%") {
             for (let q = 0; q < ASCII.length; q++) {
                 let ASCIICODE = ASCII[q].Code.toLocaleUpperCase()
-                ASCIICODE = ASCIICODE.toLocaleLowerCase()
-                let FoundCode = ToDecipher.substr(i, 6)
+                ASCIICODE = ASCIICODE.toLocaleUpperCase()
+                let FoundCode = ToDecipher.substr(i, 6).toLocaleUpperCase()
                 FoundCode = FoundCode.toLocaleUpperCase()
                 if (ASCIICODE == FoundCode) {
-                    console.log(`Eureka! We found a ASCCI code : ${ToDecipher.substr(i, 6)}`)
-                    let indexInASCII = ASCII.map(object => object.Code).indexOf(ToDecipher.substr(i, 6));
+                    console.log(`Eureka! We found a ASCCI code : ${FoundCode}`)
+                    console.log("Foundcode" + FoundCode)
+                    let indexInASCII = ASCII.map(object => object.Code).indexOf(FoundCode);
                     console.log(indexInASCII)
                     console.log(`Character to replace:${ASCII[indexInASCII].Code} --> ${ASCII[indexInASCII].Char}`)
                     NewString = ToDecipher.split(ASCII[indexInASCII].Code).join(ASCII[indexInASCII].Char)
+                    console.log(ToDecipher.split(ASCII[indexInASCII].Code).join(ASCII[indexInASCII].Char))
                     ToDecipher = NewString
-                    console.log("New String = ", NewString)
+                    console.log("New String = ", ToDecipher)
 
                 }
             }
@@ -244,6 +251,7 @@ function ChooseProcess(Process) {
         default:
             break;
     }
+    ProcessText()
 
 }
 
